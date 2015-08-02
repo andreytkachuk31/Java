@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_DataStructure/Algorithm_DataStructure.iml" filepath="$PROJECT_DIR$/Algorithm_DataStructure/Algorithm_DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DWR/DWR.iml" filepath="$PROJECT_DIR$/DWR/DWR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJB/EJB.iml" filepath="$PROJECT_DIR$/EJB/EJB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMI/RMI.iml" filepath="$PROJECT_DIR$/RMI/RMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rest/Rest.iml" filepath="$PROJECT_DIR$/Rest/Rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Salesman/Salesman.iml" filepath="$PROJECT_DIR$/Salesman/Salesman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/Spring.iml" filepath="$PROJECT_DIR$/Spring/Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/Spring MVC/Spring MVC.iml" filepath="$PROJECT_DIR$/Spring/Spring MVC/Spring MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/Spring Web Flow/Spring Web Flow.iml" filepath="$PROJECT_DIR$/Spring/Spring Web Flow/Spring Web Flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebService/Standartalone/Standartalone.iml" filepath="$PROJECT_DIR$/WebService/Standartalone/Standartalone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Struts/Struts.iml" filepath="$PROJECT_DIR$/Struts/Struts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TDD/TDD.iml" filepath="$PROJECT_DIR$/TDD/TDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebService/WebApplication/WebApplication.iml" filepath="$PROJECT_DIR$/WebService/WebApplication/WebApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebService/WebService.iml" filepath="$PROJECT_DIR$/WebService/WebService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/Spring MVC/spring.mvc.iml" filepath="$PROJECT_DIR$/Spring/Spring MVC/spring.mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/Spring Web Flow/spring.web.flow.iml" filepath="$PROJECT_DIR$/Spring/Spring Web Flow/spring.web.flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebService/WebApplication/ws.test.iml" filepath="$PROJECT_DIR$/WebService/WebApplication/ws.test.iml" />
+    </modules>
+  </component>
+</project>
+

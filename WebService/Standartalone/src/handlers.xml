@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<handler-chains xmlns="http://java.sun.com/xml/ns/javaee">
+    <handler-chain>
+        <handler>
+            <handler-class>handler.MacAddressValidatorHandler</handler-class>
+        </handler>
+    </handler-chain>
+    <handler-chain>
+        <handler>
+            <handler-class>handler.MacAddressInjectHandler</handler-class>
+        </handler>
+    </handler-chain>
+</handler-chains>

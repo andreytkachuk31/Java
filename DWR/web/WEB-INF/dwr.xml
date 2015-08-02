@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<dwr>
+    <allow>
+        <create creator="new" javascript="Remote">
+            <param name="class" value="dwr.Remote"/>
+        </create>
+    </allow>
+</dwr>

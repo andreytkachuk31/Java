@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="ifobs-bczcard" />
+        <module name="ifobs-bl-commonbl" />
+        <module name="ifobs-bl-datadispatcher" />
+        <module name="ifobs-bl-dispatchers" />
+        <module name="ifobs-bl-ear" />
+        <module name="ifobs-bl-facadesession" />
+        <module name="ifobs-bl-interfaces" />
+        <module name="ifobs-bl-loggingdb" />
+        <module name="ifobs-bl-loggingsession" />
+        <module name="ifobs-bl-startup" />
+        <module name="ifobs-bl-webadmindb" />
+        <module name="ifobs-bl-webadminsession" />
+        <module name="ifobs-bl-webclientsession" />
+        <module name="ifobs-blcards-cardsdispatcher" />
+        <module name="ifobs-blcards-cardsdispatcherservices" />
+        <module name="ifobs-blcards-ear" />
+        <module name="ifobs-blcards-interfaces" />
+        <module name="ifobs-cardsonline-ear" />
+        <module name="ifobs-cardsonline-war" />
+        <module name="ifobs-common" />
+        <module name="ifobs-cst" />
+        <module name="ifobs-digipass" />
+        <module name="ifobs-extendedmessages" />
+        <module name="ifobs-ftputil" />
+        <module name="ifobs-igama" />
+        <module name="ifobs-iscardintegrator" />
+        <module name="ifobs-mail" />
+        <module name="ifobs-mobile-md-api-bl-ear" />
+        <module name="ifobs-mobile-md-api-common" />
+        <module name="ifobs-mobile-md-api-pl-ear" />
+        <module name="ifobs-mobile-md-api-services" />
+        <module name="ifobs-mobile-md-api-sessions" />
+        <module name="ifobs-open24x7-ear" />
+        <module name="ifobs-open24x7-services" />
+        <module name="ifobs-open24x7-sessions" />
+        <module name="ifobs-openadmin-ear" />
+        <module name="ifobs-openadmin-services" />
+        <module name="ifobs-opentim-ear" />
+        <module name="ifobs-opentim-war" />
+        <module name="ifobs-resources-reports" />
+        <module name="ifobs-resources-xsl" />
+        <module name="ifobs-siebel-ear" />
+        <module name="ifobs-siebel-services" />
+        <module name="ifobs-siebel-sessions" />
+        <module name="ifobs-smsalphabanksmsgate-ear" />
+        <module name="ifobs-smsalphabanksmsgate-jar" />
+        <module name="ifobs-smsalphabanksmsgate-war" />
+        <module name="ifobs-smsdelivery-ear" />
+        <module name="ifobs-smsdelivery-war" />
+        <module name="ifobs-smsexternal-ear" />
+        <module name="ifobs-smsexternal-war" />
+        <module name="ifobs-smsgtcpa" />
+        <module name="ifobs-smskievstarsmsgate-ear" />
+        <module name="ifobs-smskievstarsmsgate-war" />
+        <module name="ifobs-synchroutils" />
+        <module name="ifobs-timers-ear" />
+        <module name="ifobs-timers-ejb" />
+        <module name="ifobs-timers-war" />
+        <module name="ifobs-upbs" />
+        <module name="ifobs-webclient-astra-ear" />
+        <module name="ifobs-webclient-astra-war" />
+        <module name="ifobs-webclient-base-delta-ear" />
+        <module name="ifobs-webclient-base-delta-war" />
+        <module name="ifobs-webclient-base-dv-ear" />
+        <module name="ifobs-webclient-base-dv-war" />
+        <module name="ifobs-webclient-base-ear" />
+        <module name="ifobs-webclient-base-forum-ear" />
+        <module name="ifobs-webclient-base-forum-war" />
+        <module name="ifobs-webclient-base-kredo-ear" />
+        <module name="ifobs-webclient-base-kredo-war" />
+        <module name="ifobs-webclient-base-otp-ear" />
+        <module name="ifobs-webclient-base-otp-war" />
+        <module name="ifobs-webclient-base-pivd-ear" />
+        <module name="ifobs-webclient-base-pivd-war" />
+        <module name="ifobs-webclient-base-sbrf-ear" />
+        <module name="ifobs-webclient-base-sbrf-war" />
+        <module name="ifobs-webclient-base-seb-ear" />
+        <module name="ifobs-webclient-base-seb-war" />
+        <module name="ifobs-webclient-base-vbr-ear" />
+        <module name="ifobs-webclient-base-vbr-war" />
+        <module name="ifobs-webclient-base-volksbank-ear" />
+        <module name="ifobs-webclient-base-volksbank-war" />
+        <module name="ifobs-webclient-base-vtb-ear" />
+        <module name="ifobs-webclient-base-vtb-war" />
+        <module name="ifobs-webclient-base-war" />
+        <module name="ifobs-webclient-bta-avant-ear" />
+        <module name="ifobs-webclient-bta-avant-war" />
+        <module name="ifobs-webclient-bta-bm-ear" />
+        <module name="ifobs-webclient-bta-bm-war" />
+        <module name="ifobs-webclient-bta-cs-ear" />
+        <module name="ifobs-webclient-bta-cs-war" />
+        <module name="ifobs-webclient-bta-dv-ear" />
+        <module name="ifobs-webclient-bta-dv-war" />
+        <module name="ifobs-webclient-bta-ear" />
+        <module name="ifobs-webclient-bta-energo-ear" />
+        <module name="ifobs-webclient-bta-energo-war" />
+        <module name="ifobs-webclient-bta-forum-ear" />
+        <module name="ifobs-webclient-bta-forum-war" />
+        <module name="ifobs-webclient-bta-kredo-ear" />
+        <module name="ifobs-webclient-bta-kredo-war" />
+        <module name="ifobs-webclient-bta-otp-ear" />
+        <module name="ifobs-webclient-bta-otp-war" />
+        <module name="ifobs-webclient-bta-volksbank-ear" />
+        <module name="ifobs-webclient-bta-volksbank-war" />
+        <module name="ifobs-webclient-bta-vtb-ear" />
+        <module name="ifobs-webclient-bta-vtb-war" />
+        <module name="ifobs-webclient-bta-war" />
+        <module name="ifobs-webclient-common" />
+        <module name="ifobs-webclient-delta-ear" />
+        <module name="ifobs-webclient-delta-war" />
+        <module name="ifobs-webclient-hvb-ear" />
+        <module name="ifobs-webclient-hvb-war" />
+        <module name="ifobs-webclient-piraeus-ear" />
+        <module name="ifobs-webclient-piraeus-war" />
+        <module name="ifobs-webclient-sbrf-agro-ear" />
+        <module name="ifobs-webclient-sbrf-agro-war" />
+        <module name="ifobs-webclient-sbrf-ear" />
+        <module name="ifobs-webclient-sbrf-finin-ear" />
+        <module name="ifobs-webclient-sbrf-finin-war" />
+        <module name="ifobs-webclient-sbrf-jsbni-ear" />
+        <module name="ifobs-webclient-sbrf-jsbni-war" />
+        <module name="ifobs-webclient-sbrf-pivd-ear" />
+        <module name="ifobs-webclient-sbrf-pivd-war" />
+        <module name="ifobs-webclient-sbrf-private-ear" />
+        <module name="ifobs-webclient-sbrf-private-war" />
+        <module name="ifobs-webclient-sbrf-uni-ear" />
+        <module name="ifobs-webclient-sbrf-uni-war" />
+        <module name="ifobs-webclient-sbrf-vbr-ear" />
+        <module name="ifobs-webclient-sbrf-vbr-war" />
+        <module name="ifobs-webclient-sbrf-war" />
+        <module name="ifobs-webclient-seb-ear" />
+        <module name="ifobs-webclient-seb-war" />
+        <module name="ifobs-webclient-uni-ear" />
+        <module name="ifobs-webclient-uni-fincom-ear" />
+        <module name="ifobs-webclient-uni-fincom-war" />
+        <module name="ifobs-webclient-uni-war" />
+        <module name="ifobs-webportal-ear" />
+        <module name="ifobs-webportal-war" />
+        <module name="ifobs-win32-admin-ear" />
+        <module name="ifobs-win32-admin-war" />
+        <module name="ifobs-win32-client-ear" />
+        <module name="ifobs-win32-client-war" />
+        <module name="ifobs2-base" />
+        <module name="ifobs2-ift-ear" />
+        <module name="ifobs2-ift-war" />
+        <module name="ifobs2-inteligo-ear" />
+        <module name="ifobs2-inteligo-open-ear" />
+        <module name="ifobs2-inteligo-open-war" />
+        <module name="ifobs2-inteligo-war" />
+        <module name="ifobs2-open-ear" />
+        <module name="ifobs2-open-war" />
+        <module name="ifobs2-sessions-common-ear" />
+        <module name="ifobs2-sessions-common-ejb" />
+        <module name="ifobs2-sessions-configurator-ear" />
+        <module name="ifobs2-sessions-configurator-ejb" />
+        <module name="ifobs2-sessions-ift-ear" />
+        <module name="ifobs2-sessions-ift-ejb" />
+        <module name="ifobs2-sessions-inteligo-ear" />
+        <module name="ifobs2-sessions-inteligo-ejb" />
+        <module name="ifobs2-sessions-open-ear" />
+        <module name="ifobs2-sessions-open-ejb" />
+        <module name="ifobs2-sessions-ssi-ear" />
+        <module name="ifobs2-sessions-ssi-ejb" />
+        <module name="ifobs2-sessions-wm-ear" />
+        <module name="ifobs2-sessions-wm-ejb" />
+        <module name="ifobs2-wm-ear" />
+        <module name="ifobs2-wm-war" />
+        <module name="Knights" />
+        <module name="Salesman" />
+        <module name="Spring" />
+        <module name="WebApplication" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ifobs" target="1.7" />
+      <module name="ifobs-apps" target="1.7" />
+      <module name="ifobs-bczcard" target="1.7" />
+      <module name="ifobs-bl" target="1.7" />
+      <module name="ifobs-bl-commonbl" target="1.7" />
+      <module name="ifobs-bl-datadispatcher" target="1.7" />
+      <module name="ifobs-bl-dispatchers" target="1.7" />
+      <module name="ifobs-bl-ear" target="1.7" />
+      <module name="ifobs-bl-facadesession" target="1.7" />
+      <module name="ifobs-bl-interfaces" target="1.7" />
+      <module name="ifobs-bl-loggingdb" target="1.7" />
+      <module name="ifobs-bl-loggingsession" target="1.7" />
+      <module name="ifobs-bl-startup" target="1.7" />
+      <module name="ifobs-bl-webadmindb" target="1.7" />
+      <module name="ifobs-bl-webadminsession" target="1.7" />
+      <module name="ifobs-bl-webclientsession" target="1.7" />
+      <module name="ifobs-blcards" target="1.7" />
+      <module name="ifobs-blcards-cardsdispatcher" target="1.7" />
+      <module name="ifobs-blcards-cardsdispatcherservices" target="1.7" />
+      <module name="ifobs-blcards-ear" target="1.7" />
+      <module name="ifobs-blcards-interfaces" target="1.7" />
+      <module name="ifobs-cardsonline" target="1.7" />
+      <module name="ifobs-cardsonline-ear" target="1.7" />
+      <module name="ifobs-cardsonline-war" target="1.7" />
+      <module name="ifobs-common" target="1.7" />
+      <module name="ifobs-cst" target="1.7" />
+      <module name="ifobs-digipass" target="1.7" />
+      <module name="ifobs-extendedmessages" target="1.7" />
+      <module name="ifobs-external" target="1.7" />
+      <module name="ifobs-ftputil" target="1.7" />
+      <module name="ifobs-igama" target="1.7" />
+      <module name="ifobs-iscardintegrator" target="1.7" />
+      <module name="ifobs-mail" target="1.7" />
+      <module name="ifobs-mobile-md-api" target="1.7" />
+      <module name="ifobs-mobile-md-api-bl" target="1.7" />
+      <module name="ifobs-mobile-md-api-bl-ear" target="1.7" />
+      <module name="ifobs-mobile-md-api-common" target="1.7" />
+      <module name="ifobs-mobile-md-api-pl" target="1.7" />
+      <module name="ifobs-mobile-md-api-pl-ear" target="1.7" />
+      <module name="ifobs-mobile-md-api-services" target="1.7" />
+      <module name="ifobs-mobile-md-api-sessions" target="1.7" />
+      <module name="ifobs-modules" target="1.7" />
+      <module name="ifobs-open24x7" target="1.7" />
+      <module name="ifobs-open24x7-ear" target="1.7" />
+      <module name="ifobs-open24x7-services" target="1.7" />
+      <module name="ifobs-open24x7-sessions" target="1.7" />
+      <module name="ifobs-openadmin" target="1.7" />
+      <module name="ifobs-openadmin-ear" target="1.7" />
+      <module name="ifobs-openadmin-services" target="1.7" />
+      <module name="ifobs-opentim" target="1.7" />
+      <module name="ifobs-opentim-ear" target="1.7" />
+      <module name="ifobs-opentim-war" target="1.7" />
+      <module name="ifobs-resources" target="1.7" />
+      <module name="ifobs-resources-reports" target="1.7" />
+      <module name="ifobs-resources-xsl" target="1.7" />
+      <module name="ifobs-siebel" target="1.7" />
+      <module name="ifobs-siebel-ear" target="1.7" />
+      <module name="ifobs-siebel-services" target="1.7" />
+      <module name="ifobs-siebel-sessions" target="1.7" />
+      <module name="ifobs-sms" target="1.7" />
+      <module name="ifobs-smsalphabanksmsgate" target="1.7" />
+      <module name="ifobs-smsalphabanksmsgate-ear" target="1.7" />
+      <module name="ifobs-smsalphabanksmsgate-jar" target="1.7" />
+      <module name="ifobs-smsalphabanksmsgate-war" target="1.7" />
+      <module name="ifobs-smsdelivery" target="1.7" />
+      <module name="ifobs-smsdelivery-ear" target="1.7" />
+      <module name="ifobs-smsdelivery-war" target="1.7" />
+      <module name="ifobs-smsexternal" target="1.7" />
+      <module name="ifobs-smsexternal-ear" target="1.7" />
+      <module name="ifobs-smsexternal-war" target="1.7" />
+      <module name="ifobs-smsgtcpa" target="1.7" />
+      <module name="ifobs-smskievstarsmsgate" target="1.7" />
+      <module name="ifobs-smskievstarsmsgate-ear" target="1.7" />
+      <module name="ifobs-smskievstarsmsgate-war" target="1.7" />
+      <module name="ifobs-synchroutils" target="1.7" />
+      <module name="ifobs-timers" target="1.7" />
+      <module name="ifobs-timers-ear" target="1.7" />
+      <module name="ifobs-timers-ejb" target="1.7" />
+      <module name="ifobs-timers-war" target="1.7" />
+      <module name="ifobs-upbs" target="1.7" />
+      <module name="ifobs-web" target="1.7" />
+      <module name="ifobs-webclient-astra" target="1.7" />
+      <module name="ifobs-webclient-astra-ear" target="1.7" />
+      <module name="ifobs-webclient-astra-war" target="1.7" />
+      <module name="ifobs-webclient-base" target="1.7" />
+      <module name="ifobs-webclient-base-delta" target="1.7" />
+      <module name="ifobs-webclient-base-delta-ear" target="1.7" />
+      <module name="ifobs-webclient-base-delta-war" target="1.7" />
+      <module name="ifobs-webclient-base-dv" target="1.7" />
+      <module name="ifobs-webclient-base-dv-ear" target="1.7" />
+      <module name="ifobs-webclient-base-dv-war" target="1.7" />
+      <module name="ifobs-webclient-base-ear" target="1.7" />
+      <module name="ifobs-webclient-base-forum" target="1.7" />
+      <module name="ifobs-webclient-base-forum-ear" target="1.7" />
+      <module name="ifobs-webclient-base-forum-war" target="1.7" />
+      <module name="ifobs-webclient-base-kredo" target="1.7" />
+      <module name="ifobs-webclient-base-kredo-ear" target="1.7" />
+      <module name="ifobs-webclient-base-kredo-war" target="1.7" />
+      <module name="ifobs-webclient-base-otp" target="1.7" />
+      <module name="ifobs-webclient-base-otp-ear" target="1.7" />
+      <module name="ifobs-webclient-base-otp-war" target="1.7" />
+      <module name="ifobs-webclient-base-pivd" target="1.7" />
+      <module name="ifobs-webclient-base-pivd-ear" target="1.7" />
+      <module name="ifobs-webclient-base-pivd-war" target="1.7" />
+      <module name="ifobs-webclient-base-sbrf" target="1.7" />
+      <module name="ifobs-webclient-base-sbrf-ear" target="1.7" />
+      <module name="ifobs-webclient-base-sbrf-war" target="1.7" />
+      <module name="ifobs-webclient-base-seb" target="1.7" />
+      <module name="ifobs-webclient-base-seb-ear" target="1.7" />
+      <module name="ifobs-webclient-base-seb-war" target="1.7" />
+      <module name="ifobs-webclient-base-vbr" target="1.7" />
+      <module name="ifobs-webclient-base-vbr-ear" target="1.7" />
+      <module name="ifobs-webclient-base-vbr-war" target="1.7" />
+      <module name="ifobs-webclient-base-volksbank" target="1.7" />
+      <module name="ifobs-webclient-base-volksbank-ear" target="1.7" />
+      <module name="ifobs-webclient-base-volksbank-war" target="1.7" />
+      <module name="ifobs-webclient-base-vtb" target="1.7" />
+      <module name="ifobs-webclient-base-vtb-ear" target="1.7" />
+      <module name="ifobs-webclient-base-vtb-war" target="1.7" />
+      <module name="ifobs-webclient-base-war" target="1.7" />
+      <module name="ifobs-webclient-bta" target="1.7" />
+      <module name="ifobs-webclient-bta-avant" target="1.7" />
+      <module name="ifobs-webclient-bta-avant-ear" target="1.7" />
+      <module name="ifobs-webclient-bta-avant-war" target="1.7" />
+      <module name="ifobs-webclient-bta-bm" target="1.7" />
+      <module name="ifobs-webclient-bta-bm-ear" target="1.7" />
+      <module name="ifobs-webclient-bta-bm-war" target="1.7" />
+      <module name="ifobs-webclient-bta-cs" target="1.7" />
+      <module name="ifobs-webclient-bta-cs-ear" target="1.7" />
+      <module name="ifobs-webclient-bta-cs-war" target="1.7" />
+      <module name="ifobs-webclient-bta-dv" target="1.7" />
+      <module name="ifobs-webclient-bta-dv-ear" target="1.7" />
+      <module name="ifobs-webclient-bta-dv-war" target="1.7" />
+      <module name="ifobs-webclient-bta-ear" target="1.7" />
+      <module name="ifobs-webclient-bta-energo" target="1.7" />
+      <module name="ifobs-webclient-bta-energo-ear" target="1.7" />
+      <module name="ifobs-webclient-bta-energo-war" target="1.7" />
+      <module name="ifobs-webclient-bta-forum" target="1.7" />
+      <module name="ifobs-webclient-bta-forum-ear" target="1.7" />
+      <module name="ifobs-webclient-bta-forum-war" target="1.7" />
+      <module name="ifobs-webclient-bta-kredo" target="1.7" />
+      <module name="ifobs-webclient-bta-kredo-ear" target="1.7" />
+      <module name="ifobs-webclient-bta-kredo-war" target="1.7" />
+      <module name="ifobs-webclient-bta-otp" target="1.7" />
+      <module name="ifobs-webclient-bta-otp-ear" target="1.7" />
+      <module name="ifobs-webclient-bta-otp-war" target="1.7" />
+      <module name="ifobs-webclient-bta-volksbank" target="1.7" />
+      <module name="ifobs-webclient-bta-volksbank-ear" target="1.7" />
+      <module name="ifobs-webclient-bta-volksbank-war" target="1.7" />
+      <module name="ifobs-webclient-bta-vtb" target="1.7" />
+      <module name="ifobs-webclient-bta-vtb-ear" target="1.7" />
+      <module name="ifobs-webclient-bta-vtb-war" target="1.7" />
+      <module name="ifobs-webclient-bta-war" target="1.7" />
+      <module name="ifobs-webclient-common" target="1.7" />
+      <module name="ifobs-webclient-delta" target="1.7" />
+      <module name="ifobs-webclient-delta-ear" target="1.7" />
+      <module name="ifobs-webclient-delta-war" target="1.7" />
+      <module name="ifobs-webclient-hvb" target="1.7" />
+      <module name="ifobs-webclient-hvb-ear" target="1.7" />
+      <module name="ifobs-webclient-hvb-war" target="1.7" />
+      <module name="ifobs-webclient-piraeus" target="1.7" />
+      <module name="ifobs-webclient-piraeus-ear" target="1.7" />
+      <module name="ifobs-webclient-piraeus-war" target="1.7" />
+      <module name="ifobs-webclient-sbrf" target="1.7" />
+      <module name="ifobs-webclient-sbrf-agro" target="1.7" />
+      <module name="ifobs-webclient-sbrf-agro-ear" target="1.7" />
+      <module name="ifobs-webclient-sbrf-agro-war" target="1.7" />
+      <module name="ifobs-webclient-sbrf-ear" target="1.7" />
+      <module name="ifobs-webclient-sbrf-finin" target="1.7" />
+      <module name="ifobs-webclient-sbrf-finin-ear" target="1.7" />
+      <module name="ifobs-webclient-sbrf-finin-war" target="1.7" />
+      <module name="ifobs-webclient-sbrf-jsbni" target="1.7" />
+      <module name="ifobs-webclient-sbrf-jsbni-ear" target="1.7" />
+      <module name="ifobs-webclient-sbrf-jsbni-war" target="1.7" />
+      <module name="ifobs-webclient-sbrf-pivd" target="1.7" />
+      <module name="ifobs-webclient-sbrf-pivd-ear" target="1.7" />
+      <module name="ifobs-webclient-sbrf-pivd-war" target="1.7" />
+      <module name="ifobs-webclient-sbrf-private" target="1.7" />
+      <module name="ifobs-webclient-sbrf-private-ear" target="1.7" />
+      <module name="ifobs-webclient-sbrf-private-war" target="1.7" />
+      <module name="ifobs-webclient-sbrf-uni" target="1.7" />
+      <module name="ifobs-webclient-sbrf-uni-ear" target="1.7" />
+      <module name="ifobs-webclient-sbrf-uni-war" target="1.7" />
+      <module name="ifobs-webclient-sbrf-vbr" target="1.7" />
+      <module name="ifobs-webclient-sbrf-vbr-ear" target="1.7" />
+      <module name="ifobs-webclient-sbrf-vbr-war" target="1.7" />
+      <module name="ifobs-webclient-sbrf-war" target="1.7" />
+      <module name="ifobs-webclient-seb" target="1.7" />
+      <module name="ifobs-webclient-seb-ear" target="1.7" />
+      <module name="ifobs-webclient-seb-war" target="1.7" />
+      <module name="ifobs-webclient-uni" target="1.7" />
+      <module name="ifobs-webclient-uni-ear" target="1.7" />
+      <module name="ifobs-webclient-uni-fincom" target="1.7" />
+      <module name="ifobs-webclient-uni-fincom-ear" target="1.7" />
+      <module name="ifobs-webclient-uni-fincom-war" target="1.7" />
+      <module name="ifobs-webclient-uni-war" target="1.7" />
+      <module name="ifobs-webportal" target="1.7" />
+      <module name="ifobs-webportal-ear" target="1.7" />
+      <module name="ifobs-webportal-war" target="1.7" />
+      <module name="ifobs-win32" target="1.7" />
+      <module name="ifobs-win32-admin" target="1.7" />
+      <module name="ifobs-win32-admin-ear" target="1.7" />
+      <module name="ifobs-win32-admin-war" target="1.7" />
+      <module name="ifobs-win32-client" target="1.7" />
+      <module name="ifobs-win32-client-ear" target="1.7" />
+      <module name="ifobs-win32-client-war" target="1.7" />
+      <module name="ifobs2" target="1.7" />
+      <module name="ifobs2-base" target="1.7" />
+      <module name="ifobs2-ift" target="1.7" />
+      <module name="ifobs2-ift-ear" target="1.7" />
+      <module name="ifobs2-ift-war" target="1.7" />
+      <module name="ifobs2-inteligo" target="1.7" />
+      <module name="ifobs2-inteligo-ear" target="1.7" />
+      <module name="ifobs2-inteligo-open-ear" target="1.7" />
+      <module name="ifobs2-inteligo-open-war" target="1.7" />
+      <module name="ifobs2-inteligo-war" target="1.7" />
+      <module name="ifobs2-open" target="1.7" />
+      <module name="ifobs2-open-ear" target="1.7" />
+      <module name="ifobs2-open-war" target="1.7" />
+      <module name="ifobs2-services" target="1.7" />
+      <module name="ifobs2-sessions" target="1.7" />
+      <module name="ifobs2-sessions-common" target="1.7" />
+      <module name="ifobs2-sessions-common-ear" target="1.7" />
+      <module name="ifobs2-sessions-common-ejb" target="1.7" />
+      <module name="ifobs2-sessions-configurator" target="1.7" />
+      <module name="ifobs2-sessions-configurator-ear" target="1.7" />
+      <module name="ifobs2-sessions-configurator-ejb" target="1.7" />
+      <module name="ifobs2-sessions-ift" target="1.7" />
+      <module name="ifobs2-sessions-ift-ear" target="1.7" />
+      <module name="ifobs2-sessions-ift-ejb" target="1.7" />
+      <module name="ifobs2-sessions-inteligo" target="1.7" />
+      <module name="ifobs2-sessions-inteligo-ear" target="1.7" />
+      <module name="ifobs2-sessions-inteligo-ejb" target="1.7" />
+      <module name="ifobs2-sessions-open" target="1.7" />
+      <module name="ifobs2-sessions-open-ear" target="1.7" />
+      <module name="ifobs2-sessions-open-ejb" target="1.7" />
+      <module name="ifobs2-sessions-ssi" target="1.7" />
+      <module name="ifobs2-sessions-ssi-ear" target="1.7" />
+      <module name="ifobs2-sessions-ssi-ejb" target="1.7" />
+      <module name="ifobs2-sessions-wm" target="1.7" />
+      <module name="ifobs2-sessions-wm-ear" target="1.7" />
+      <module name="ifobs2-sessions-wm-ejb" target="1.7" />
+      <module name="ifobs2-wm" target="1.7" />
+      <module name="ifobs2-wm-ear" target="1.7" />
+      <module name="ifobs2-wm-war" target="1.7" />
+      <module name="maven" target="1.7" />
+      <module name="Salesman" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<html>
+<head>
+    <title>Velocity</title>
+</head>
+<body>
+    <h2>Velocity:</h2>
+    <a href="/">Add rant</a><br/>
+    <a href="/">Register new motorist</a><br/>
+    <ul>
+        #foreach($rant in $rants)
+            <li>
+                ${rant}
+            </li>
+        #end
+    </ul>
+
+</body>
+</html>

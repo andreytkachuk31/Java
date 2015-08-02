@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:webflow="http://www.springframework.org/schema/webflow-config"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans.xsd
+                           http://www.springframework.org/schema/webflow-config
+                           http://www.springframework.org/schema/webflow-config/spring-webflow-config-2.3.xsd">
+
+    <webflow:flow-executor id="flowExecutor" flow-registry="flowRegistry"/>
+
+    <webflow:flow-registry id="flowRegistry">
+        <webflow:flow-location id="pizza" path="classpath:/flows/pizza/pizza.xml"/>
+        <webflow:flow-location id="customer" path="classpath:/flows/pizza/customer.xml"/>
+        <webflow:flow-location id="order" path="classpath:/flows/pizza/order.xml"/>
+    </webflow:flow-registry>
+
+    <bean class="org.springframework.webflow.mvc.servlet.FlowHandlerMapping">
+        <property name="flowRegistry" ref="flowRegistry"/>
+    </bean>
+
+    <bean class="org.springframework.webflow.mvc.servlet.FlowHandlerAdapter">
+        <property name="flowExecutor" ref="flowExecutor"/>
+    </bean>
+
+</beans>
