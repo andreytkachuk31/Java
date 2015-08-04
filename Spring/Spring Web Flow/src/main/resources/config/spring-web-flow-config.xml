@@ -13,6 +13,7 @@
         <webflow:flow-location id="pizza" path="classpath:/flows/pizza/pizza.xml"/>
         <webflow:flow-location id="customer" path="classpath:/flows/pizza/customer.xml"/>
         <webflow:flow-location id="order" path="classpath:/flows/pizza/order.xml"/>
+        <webflow:flow-location id="payment" path="classpath:/flows/pizza/payment.xml"/>
     </webflow:flow-registry>
 
     <bean class="org.springframework.webflow.mvc.servlet.FlowHandlerMapping">

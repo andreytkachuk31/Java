@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="ws.test:war">
-    <output-path>$PROJECT_DIR$/WebService/WebApplication/target</output-path>
-    <root id="archive" name="ws.test-1.0.war">
-      <element id="artifact" artifact-name="ws.test:war exploded" />
-    </root>
-  </artifact>
-</component>

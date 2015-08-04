@@ -10,7 +10,6 @@
     <version>1.0</version>
 
     <modules>
-        <module>Knights</module>
         <module>Spring</module>
         <module>Salesman</module>
         <module>WebService</module>

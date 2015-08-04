@@ -91,8 +91,6 @@
     <file type="javaeeApplication" url="file://D:/iFOBS/apps/ifobs2/ifobs2-sessions/ifobs2-sessions-open/ifobs2-sessions-open-ear" />
     <file type="javaeeApplication" url="file://D:/iFOBS/apps/ifobs2/ifobs2-sessions/ifobs2-sessions-ssi/ifobs2-sessions-ssi-ear" />
     <file type="javaeeApplication" url="file://D:/iFOBS/apps/ifobs2/ifobs2-sessions/ifobs2-sessions-wm/ifobs2-sessions-wm-ear" />
-    <file type="web" url="file://$PROJECT_DIR$/Salesman" />
-    <file type="web" url="file://$PROJECT_DIR$/Spring" />
     <file type="web" url="file://$PROJECT_DIR$/WebService/WebApplication" />
     <file type="web" url="file://D:/iFOBS/apps/ifobs-bl/ifobs-bl-startup" />
     <file type="web" url="file://D:/iFOBS/apps/ifobs-blcards/ifobs-blcards-cardsdispatcherservices" />
@@ -156,18 +154,20 @@
     <file type="web" url="file://D:/iFOBS/apps/ifobs2/ifobs2-services/ifobs2-wm/ifobs2-wm-war" />
   </component>
   <component name="IdProvider" IDEtalkID="9EEC1FA80B932305431158375A839D67" />
-  <component name="JsfProjectComponent">
-    <option name="faceletsSupport" value="ENABLED" />
-  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+        <option value="$PROJECT_DIR$/WebService/WebApplication/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/WebService/pom.xml" />
+        <option value="$PROJECT_DIR$/Salesman/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/Spring MVC/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/Spring Web Flow/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
-        <option value="$PROJECT_DIR$/Knights/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/pom.xml" />
         <option value="D:/iFOBS/apps/ifobs-bl/ifobs-bl-commonbl/pom.xml" />
         <option value="D:/iFOBS/apps/ifobs-bl/ifobs-bl-datadispatcher/pom.xml" />
         <option value="D:/iFOBS/apps/ifobs-bl/ifobs-bl-dispatchers/pom.xml" />
@@ -424,17 +424,45 @@
   <component name="SvnBranchConfigurationManager">
     <option name="myConfigurationMap">
       <map>
-        <entry key="$PROJECT_DIR$/Spring">
+        <entry key="$PROJECT_DIR$">
           <value>
             <SvnBranchConfiguration>
-              <option name="trunkUrl" value="" />
+              <option name="branchUrls">
+                <list>
+                  <option value="https://java-projects-example.googlecode.com/svn/branches" />
+                  <option value="https://java-projects-example.googlecode.com/svn/tags" />
+                  <option value="https://java-projects-example.googlecode.com/svn/wiki" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="https://java-projects-example.googlecode.com/svn/trunk" />
             </SvnBranchConfiguration>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/WebService/WebApplication">
+        <entry key="$PROJECT_DIR$/Spring/Spring MVC">
           <value>
             <SvnBranchConfiguration>
-              <option name="trunkUrl" value="" />
+              <option name="branchUrls">
+                <list>
+                  <option value="https://java-projects-example.googlecode.com/svn/branches" />
+                  <option value="https://java-projects-example.googlecode.com/svn/tags" />
+                  <option value="https://java-projects-example.googlecode.com/svn/wiki" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="https://java-projects-example.googlecode.com/svn/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Spring/Spring Web Flow">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="https://java-projects-example.googlecode.com/svn/branches" />
+                  <option value="https://java-projects-example.googlecode.com/svn/tags" />
+                  <option value="https://java-projects-example.googlecode.com/svn/wiki" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="https://java-projects-example.googlecode.com/svn/trunk" />
             </SvnBranchConfiguration>
           </value>
         </entry>
@@ -444,4 +472,3 @@
   </component>
   <component name="WebServicesPlugin" addRequiredLibraries="true" />
 </project>
-

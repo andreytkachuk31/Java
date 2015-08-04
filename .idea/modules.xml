@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/EJB/EJB.iml" filepath="$PROJECT_DIR$/EJB/EJB.iml" />
       <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LDAP/LDAP.iml" filepath="$PROJECT_DIR$/LDAP/LDAP.iml" />
       <module fileurl="file://$PROJECT_DIR$/RMI/RMI.iml" filepath="$PROJECT_DIR$/RMI/RMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Rest/Rest.iml" filepath="$PROJECT_DIR$/Rest/Rest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Salesman/Salesman.iml" filepath="$PROJECT_DIR$/Salesman/Salesman.iml" />
@@ -18,10 +19,6 @@
       <module fileurl="file://$PROJECT_DIR$/TDD/TDD.iml" filepath="$PROJECT_DIR$/TDD/TDD.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebService/WebApplication/WebApplication.iml" filepath="$PROJECT_DIR$/WebService/WebApplication/WebApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebService/WebService.iml" filepath="$PROJECT_DIR$/WebService/WebService.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Spring/Spring MVC/spring.mvc.iml" filepath="$PROJECT_DIR$/Spring/Spring MVC/spring.mvc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Spring/Spring Web Flow/spring.web.flow.iml" filepath="$PROJECT_DIR$/Spring/Spring Web Flow/spring.web.flow.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WebService/WebApplication/ws.test.iml" filepath="$PROJECT_DIR$/WebService/WebApplication/ws.test.iml" />
     </modules>
   </component>
 </project>
-

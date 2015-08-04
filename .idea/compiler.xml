@@ -190,15 +190,10 @@
         <module name="ifobs2-wm-ear" />
         <module name="ifobs2-wm-war" />
         <module name="Salesman" />
-<<<<<<< .mine
-        <module name="spring.mvc" />
-        <module name="spring.web.flow" />
-        <module name="ws.test" />
-=======
-        <module name="Spring" />
+        <module name="Spring MVC" />
+        <module name="Spring Web Flow" />
         <module name="TDD" />
         <module name="WebApplication" />
->>>>>>> .r11
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -449,14 +444,10 @@
       <module name="ifobs2-wm-war" target="1.7" />
       <module name="maven" target="1.7" />
       <module name="Salesman" target="1.7" />
-<<<<<<< .mine
-      <module name="spring.mvc" target="1.7" />
-      <module name="spring.test" target="1.7" />
-      <module name="spring.web.flow" target="1.7" />
-=======
+      <module name="Spring" target="1.7" />
+      <module name="Spring MVC" target="1.7" />
+      <module name="Spring Web Flow" target="1.7" />
       <module name="TDD" target="1.7" />
->>>>>>> .r11
     </bytecodeTargetLevel>
   </component>
 </project>
-

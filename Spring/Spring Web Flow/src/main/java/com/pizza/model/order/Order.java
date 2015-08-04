@@ -1,6 +1,7 @@
 package com.pizza.model.order;
 
 import com.pizza.model.customer.Customer;
+import com.pizza.model.payment.PaymentDetails;
 import com.pizza.model.pizza.Pizza;
 
 import java.io.Serializable;
@@ -17,7 +18,7 @@ public class Order implements Serializable {
 
     private Customer customer;
     private List<Pizza> pizzas;
-    //private Payment payment;
+    private PaymentDetails payment;
 
     public Order() {
         pizzas = new ArrayList<Pizza>();
@@ -48,11 +49,11 @@ public class Order implements Serializable {
         return 0.0f;
     }
 
-//    public Payment getPayment() {
-//        return payment;
-//    }
-//
-//    public void setPayment(Payment payment) {
-//        this.payment = payment;
-//    }
+    public PaymentDetails getPayment() {
+        return payment;
+    }
+
+    public void setPayment(PaymentDetails payment) {
+        this.payment = payment;
+    }
 }

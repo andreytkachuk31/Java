@@ -3,6 +3,7 @@ package com.pizza.actions;
 import com.pizza.exception.CustomerNotFoundException;
 import com.pizza.model.customer.Customer;
 import com.pizza.model.order.Order;
+import com.pizza.model.payment.PaymentDetails;
 import org.springframework.stereotype.Component;
 
 /**
@@ -27,5 +28,9 @@ public class PizzaFlowActions {
 
     public void saveOrder(Order order) {
         // save order
+    }
+
+    public PaymentDetails verifyPayment(PaymentDetails paymentDetails) {
+        return paymentDetails;
     }
 }
