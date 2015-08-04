@@ -9,25 +9,11 @@
     <bookmark url="file://$PROJECT_DIR$/WebService/Standartalone/src/handler/MacAddressValidatorHandler.java" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="315a22c3-a2fb-4501-993d-4d8d660d3000" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LDAP" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LDAP/src" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LDAP/LDAP.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LDAP/src/LDAP.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Spring/Spring Web Flow/Spring Web Flow.iml" afterPath="$PROJECT_DIR$/Spring/Spring Web Flow/Spring Web Flow.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-    </list>
-    <list id="56fd0bee-f5f4-41d3-a870-6bc5e8cabea7" name="trash" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_0_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_0_RELEASE.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Algorithm_DataStructure/algorithm/Frequency.class" afterPath="$PROJECT_DIR$/out/production/Algorithm_DataStructure/algorithm/Frequency.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Salesman/Salesman.iml" afterPath="$PROJECT_DIR$/Salesman/Salesman.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="315a22c3-a2fb-4501-993d-4d8d660d3000" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\.idea\vcs.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
+    <list id="56fd0bee-f5f4-41d3-a870-6bc5e8cabea7" name="trash" comment="" />
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,8 +27,6 @@
     <ignored path="$PROJECT_DIR$/Spring/Spring MVC/target/" />
     <ignored path="$PROJECT_DIR$/Spring/Spring Web Flow/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/misc.xml" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,25 +117,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LDAP.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LDAP.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LDAP/src/LDAP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="354" max-vertical-offset="1224">
-              <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.3321839" vertical-offset="272" max-vertical-offset="1224">
+              <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="System.java" pinned="false" current-in-tab="true">
-        <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/System.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8413793" vertical-offset="9689" max-vertical-offset="20485">
-              <caret line="631" column="40" selection-start-line="631" selection-start-column="40" selection-end-line="631" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#50944#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -230,7 +202,32 @@
   </component>
   <component name="MavenProjectNavigator">
     <option name="groupStructurally" value="true" />
-    <treeState />
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="parent" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="parent" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -261,6 +258,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -279,42 +277,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LDAP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LDAP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
         <option name="show-excluded-files" value="false" />
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -707,100 +672,6 @@
     <configuration>C:\Users\Andrii_Tkachuk\AppData\Roaming\Subversion</configuration>
     <supportedVersion>125</supportedVersion>
   </component>
-  <component name="SvnFileUrlMappingImpl">
-    <option name="myMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java" />
-          <option name="myCopyRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\.idea" />
-          <option name="myCopyRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\.idea" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\Algorithm_DataStructure" />
-          <option name="myCopyRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\Algorithm_DataStructure" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\DWR" />
-          <option name="myCopyRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\DWR" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EJB" />
-          <option name="myCopyRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EJB" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\IO" />
-          <option name="myCopyRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\IO" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\LDAP" />
-          <option name="myCopyRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\LDAP" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\Rest" />
-          <option name="myCopyRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\Rest" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\RMI" />
-          <option name="myCopyRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\RMI" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\Salesman" />
-          <option name="myCopyRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\Salesman" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\Spring" />
-          <option name="myCopyRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\Spring" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\Spring\Spring MVC" />
-          <option name="myCopyRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\Spring\Spring MVC" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\Spring\Spring Web Flow" />
-          <option name="myCopyRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\Spring\Spring Web Flow" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\Struts" />
-          <option name="myCopyRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\Struts" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\TDD" />
-          <option name="myCopyRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\TDD" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\WebService" />
-          <option name="myCopyRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\WebService" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\WebService\Standartalone" />
-          <option name="myCopyRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\WebService\Standartalone" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\WebService\WebApplication" />
-          <option name="myCopyRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\WebService\WebApplication" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-    <option name="myMoreRealMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java" />
-          <option name="myCopyRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\Spring\Spring MVC" />
-          <option name="myCopyRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\Spring\Spring MVC" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\Spring\Spring Web Flow" />
-          <option name="myCopyRoot" value="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\Spring\Spring Web Flow" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="315a22c3-a2fb-4501-993d-4d8d660d3000" name="Default" comment="" />
@@ -879,8 +750,8 @@
     <option name="totallyTimeSpent" value="34717000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1325,22 +1196,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LDAP/src/LDAP.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="354" max-vertical-offset="1224">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.1954023" vertical-offset="0" max-vertical-offset="20485">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/System.java">
+    <entry file="file://$PROJECT_DIR$/LDAP/src/LDAP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8413793" vertical-offset="9689" max-vertical-offset="20485">
-          <caret line="631" column="40" selection-start-line="631" selection-start-column="40" selection-end-line="631" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.3321839" vertical-offset="272" max-vertical-offset="1224">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
           <folding>
-            <element signature="e#0#50944#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
