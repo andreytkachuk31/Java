@@ -8,17 +8,19 @@
       <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/LDAP/LDAP.iml" filepath="$PROJECT_DIR$/LDAP/LDAP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LDAP/LDAP_Standartalone/LDAP_Standartalone.iml" filepath="$PROJECT_DIR$/LDAP/LDAP_Standartalone/LDAP_Standartalone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LDAP/LDAP_Web/LDAP_Web.iml" filepath="$PROJECT_DIR$/LDAP/LDAP_Web/LDAP_Web.iml" />
       <module fileurl="file://$PROJECT_DIR$/RMI/RMI.iml" filepath="$PROJECT_DIR$/RMI/RMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Rest/Rest.iml" filepath="$PROJECT_DIR$/Rest/Rest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Salesman/Salesman.iml" filepath="$PROJECT_DIR$/Salesman/Salesman.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring/Spring.iml" filepath="$PROJECT_DIR$/Spring/Spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring/Spring MVC/Spring MVC.iml" filepath="$PROJECT_DIR$/Spring/Spring MVC/Spring MVC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring/Spring Web Flow/Spring Web Flow.iml" filepath="$PROJECT_DIR$/Spring/Spring Web Flow/Spring Web Flow.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WebService/Standartalone/Standartalone.iml" filepath="$PROJECT_DIR$/WebService/Standartalone/Standartalone.iml" />
       <module fileurl="file://$PROJECT_DIR$/Struts/Struts.iml" filepath="$PROJECT_DIR$/Struts/Struts.iml" />
       <module fileurl="file://$PROJECT_DIR$/TDD/TDD.iml" filepath="$PROJECT_DIR$/TDD/TDD.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WebService/WebApplication/WebApplication.iml" filepath="$PROJECT_DIR$/WebService/WebApplication/WebApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebService/WebService.iml" filepath="$PROJECT_DIR$/WebService/WebService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebService/WebService_Standartalone/WebService_Standartalone.iml" filepath="$PROJECT_DIR$/WebService/WebService_Standartalone/WebService_Standartalone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebService/WebService_Web/WebService_Web.iml" filepath="$PROJECT_DIR$/WebService/WebService_Web/WebService_Web.iml" />
     </modules>
   </component>
 </project>

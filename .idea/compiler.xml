@@ -189,11 +189,13 @@
         <module name="ifobs2-sessions-wm-ejb" />
         <module name="ifobs2-wm-ear" />
         <module name="ifobs2-wm-war" />
+        <module name="LDAP_Web" />
         <module name="Salesman" />
         <module name="Spring MVC" />
         <module name="Spring Web Flow" />
         <module name="TDD" />
         <module name="WebApplication" />
+        <module name="WebService_Web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

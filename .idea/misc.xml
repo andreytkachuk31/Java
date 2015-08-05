@@ -91,7 +91,7 @@
     <file type="javaeeApplication" url="file://D:/iFOBS/apps/ifobs2/ifobs2-sessions/ifobs2-sessions-open/ifobs2-sessions-open-ear" />
     <file type="javaeeApplication" url="file://D:/iFOBS/apps/ifobs2/ifobs2-sessions/ifobs2-sessions-ssi/ifobs2-sessions-ssi-ear" />
     <file type="javaeeApplication" url="file://D:/iFOBS/apps/ifobs2/ifobs2-sessions/ifobs2-sessions-wm/ifobs2-sessions-wm-ear" />
-    <file type="web" url="file://$PROJECT_DIR$/WebService/WebApplication" />
+    <file type="web" url="file://$PROJECT_DIR$/WebService/WebService_Web" />
     <file type="web" url="file://D:/iFOBS/apps/ifobs-bl/ifobs-bl-startup" />
     <file type="web" url="file://D:/iFOBS/apps/ifobs-blcards/ifobs-blcards-cardsdispatcherservices" />
     <file type="web" url="file://D:/iFOBS/apps/ifobs-external/ifobs-cardsonline/ifobs-cardsonline-war" />
@@ -163,6 +163,7 @@
         <option value="$PROJECT_DIR$/Salesman/pom.xml" />
         <option value="$PROJECT_DIR$/Spring/Spring MVC/pom.xml" />
         <option value="$PROJECT_DIR$/Spring/Spring Web Flow/pom.xml" />
+        <option value="$PROJECT_DIR$/LDAP/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -417,7 +418,7 @@
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="RegexUtilComponent" text="1900-01-01 2007/08/13 1900.01.01 1900 01 01 1900-01.01 1900 13 01 1900 02 31" flags="0" regex="(19|20)\d\d([- /.])(0[1-9]|1[012])\2(0[1-9]|[12][0-9]|3[01])" mode="0" />

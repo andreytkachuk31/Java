@@ -4,12 +4,13 @@
 	http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>stalker.company</groupId>
-    <artifactId>ws</artifactId>
+    <groupId>web.andrey</groupId>
+    <artifactId>parent.ldap</artifactId>
     <packaging>pom</packaging>
+    <version>1.0</version>
 
     <modules>
-        <module>WebService_Web</module>
+        <module>LDAP_Web</module>
     </modules>
 
 </project>
