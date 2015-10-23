@@ -193,6 +193,8 @@
         <module name="Salesman" />
         <module name="Spring MVC" />
         <module name="Spring Web Flow" />
+        <module name="Task3" />
+        <module name="Task4" />
         <module name="TDD" />
         <module name="WebApplication" />
         <module name="WebService_Web" />
