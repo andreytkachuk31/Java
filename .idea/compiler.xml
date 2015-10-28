@@ -451,6 +451,7 @@
       <module name="Spring" target="1.7" />
       <module name="Spring MVC" target="1.7" />
       <module name="Spring Web Flow" target="1.7" />
+      <module name="Task4" target="1.8" />
       <module name="TDD" target="1.7" />
     </bytecodeTargetLevel>
   </component>
