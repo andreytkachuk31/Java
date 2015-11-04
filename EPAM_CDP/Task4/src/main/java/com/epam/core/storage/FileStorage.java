@@ -5,8 +5,6 @@ import com.epam.core.file.position.Position;
 import com.epam.core.file.reader.FileProviderReader;
 import com.epam.core.file.writer.FileProviderWriter;
 
-import java.nio.file.Path;
-
 /**
  * @author Andrii_Tkachuk
  * @since 10/21/2015
