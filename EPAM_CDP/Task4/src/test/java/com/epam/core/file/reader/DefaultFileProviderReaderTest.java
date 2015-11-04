@@ -28,6 +28,7 @@ public class DefaultFileProviderReaderTest {
 
     private Position positionMock;
 
+    @Mock
     private FileChannel fileChannelMock;
 
     @Spy
@@ -40,7 +41,6 @@ public class DefaultFileProviderReaderTest {
 
         @Override
         protected FileChannel getFileChannel() throws IOException {
-            fileChannelMock = mock(FileChannel.class);
             return fileChannelMock;
         }
     };
@@ -75,7 +75,7 @@ public class DefaultFileProviderReaderTest {
 
     @Test(expected = FileReadException.class)
     public void shouldThrowFileReadExceptionWhenCallReadAllAndThrowIOException() throws IOException {
-        when(fileChannelMock.read(any(ByteBuffer.class))).thenThrow(new IOException());
+        when(fileProviderReader.getFileChannel().read(any(ByteBuffer.class))).thenThrow(new IOException());
 
         fileProviderReader.readAll();
     }

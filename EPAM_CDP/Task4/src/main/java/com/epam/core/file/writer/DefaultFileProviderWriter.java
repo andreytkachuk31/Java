@@ -58,7 +58,7 @@ public class DefaultFileProviderWriter implements FileProviderWriter {
         }
     }
 
-    private int writeJsonToFile(String key, String value) throws IOException {
+    protected int writeJsonToFile(String key, String value) throws IOException {
         FileChannel fileChannel = getFileChannel();
         Gson gson = new Gson();
         String result = gson.toJson(new JsonEntry(key, value));

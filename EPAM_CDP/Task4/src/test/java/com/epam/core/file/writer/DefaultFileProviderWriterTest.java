@@ -31,6 +31,11 @@ public class DefaultFileProviderWriterTest {
     private DefaultFileProviderWriter fileProviderWriter = new DefaultFileProviderWriter() {
 
         @Override
+        protected int writeJsonToFile(String key, String value) throws IOException {
+            return SIZE;
+        }
+
+        @Override
         protected FileChannel getFileChannel() throws IOException {
             fileChannelMock = mock(FileChannel.class);
             when(fileChannelMock.size()).thenReturn(OFFSET);
