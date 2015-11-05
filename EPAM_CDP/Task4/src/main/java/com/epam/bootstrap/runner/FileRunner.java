@@ -5,7 +5,6 @@ import com.epam.bootstrap.builder.StorageBuilder;
 import com.epam.bootstrap.compressor.FileStorageCompressor;
 import com.epam.core.storage.FileStorage;
 
-import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -23,7 +22,7 @@ public class FileRunner implements Runner {
 
     public static Runner createInstance() throws IOException {
         Path path = Paths.get(STORAGE_FILE_NAME);
-        Files.delete(path);
+        Files.deleteIfExists(path);
         Files.createFile(path);
 
         FileRunner fileRunner = new FileRunner();
