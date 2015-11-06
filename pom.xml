@@ -14,7 +14,8 @@
         <module>Salesman</module>
         <module>WebService</module>
         <module>TDD</module>
-        <module>EPAM_CDP/Task4</module>
+        <module>LDAP</module>
+        <module>EPAM_CDP</module>
     </modules>
 
 </project>
