@@ -3,7 +3,7 @@ package com.epam.bootstrap.runner;
 import com.epam.bootstrap.builder.FileStorageBuilder;
 import com.epam.bootstrap.builder.StorageBuilder;
 import com.epam.bootstrap.compressor.FileStorageCompressor;
-import com.epam.core.storage.FileStorage;
+import com.epam.core.unit.storage.FileStorage;
 
 import java.io.IOException;
 import java.nio.file.Files;

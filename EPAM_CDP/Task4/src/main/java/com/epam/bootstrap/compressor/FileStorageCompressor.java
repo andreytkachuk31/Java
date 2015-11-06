@@ -1,6 +1,6 @@
 package com.epam.bootstrap.compressor;
 
-import com.epam.core.storage.FileStorage;
+import com.epam.core.unit.storage.FileStorage;
 
 import java.io.ByteArrayOutputStream;
 

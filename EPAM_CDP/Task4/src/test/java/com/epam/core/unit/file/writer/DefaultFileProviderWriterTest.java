@@ -1,6 +1,6 @@
-package com.epam.core.file.writer;
+package com.epam.core.unit.file.writer;
 
-import com.epam.core.file.position.Position;
+import com.epam.core.unit.file.position.Position;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,9 +1,9 @@
-package com.epam.core.storage;
+package com.epam.core.unit.storage;
 
-import com.epam.core.file.index.Index;
-import com.epam.core.file.position.Position;
-import com.epam.core.file.reader.FileProviderReader;
-import com.epam.core.file.writer.FileProviderWriter;
+import com.epam.core.unit.file.index.Index;
+import com.epam.core.unit.file.position.Position;
+import com.epam.core.unit.file.reader.FileProviderReader;
+import com.epam.core.unit.file.writer.FileProviderWriter;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.InjectMocks;

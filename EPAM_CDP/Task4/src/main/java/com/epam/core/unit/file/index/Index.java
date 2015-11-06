@@ -1,6 +1,6 @@
-package com.epam.core.file.index;
+package com.epam.core.unit.file.index;
 
-import com.epam.core.file.position.Position;
+import com.epam.core.unit.file.position.Position;
 
 import java.util.Map;
 

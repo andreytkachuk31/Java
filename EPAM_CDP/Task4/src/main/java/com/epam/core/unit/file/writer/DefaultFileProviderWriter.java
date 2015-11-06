@@ -1,9 +1,9 @@
-package com.epam.core.file.writer;
+package com.epam.core.unit.file.writer;
 
 
 import com.epam.core.exception.FileWriteException;
-import com.epam.core.file.json.JsonEntry;
-import com.epam.core.file.position.Position;
+import com.epam.core.unit.file.json.JsonEntry;
+import com.epam.core.unit.file.position.Position;
 import com.google.gson.Gson;
 
 import java.io.FileWriter;

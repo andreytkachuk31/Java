@@ -1,10 +1,10 @@
 package com.epam.bootstrap.builder;
 
-import com.epam.core.file.index.DefaultIndex;
-import com.epam.core.file.reader.DefaultFileProviderReader;
-import com.epam.core.file.writer.DefaultFileProviderWriter;
-import com.epam.core.storage.FileStorage;
-import com.epam.core.storage.Storage;
+import com.epam.core.unit.file.index.DefaultIndex;
+import com.epam.core.unit.file.reader.DefaultFileProviderReader;
+import com.epam.core.unit.file.writer.DefaultFileProviderWriter;
+import com.epam.core.unit.storage.FileStorage;
+import com.epam.core.unit.storage.Storage;
 
 import java.nio.file.Path;
 

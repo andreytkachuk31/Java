@@ -1,4 +1,4 @@
-package com.epam.core.file.json;
+package com.epam.core.unit.file.json;
 
 import com.google.common.base.Objects;
 

@@ -1,6 +1,6 @@
-package com.epam.core.file.reader;
+package com.epam.core.unit.file.reader;
 
-import com.epam.core.file.position.Position;
+import com.epam.core.unit.file.position.Position;
 
 /**
  * @author Andrii_Tkachuk

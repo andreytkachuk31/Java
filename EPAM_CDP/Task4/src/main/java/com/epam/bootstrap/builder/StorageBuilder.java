@@ -1,6 +1,6 @@
 package com.epam.bootstrap.builder;
 
-import com.epam.core.storage.Storage;
+import com.epam.core.unit.storage.Storage;
 
 /**
  * @author Andrii_Tkachuk

@@ -1,4 +1,4 @@
-package com.epam.core.file.position;
+package com.epam.core.unit.file.position;
 
 import com.google.common.base.Objects;
 

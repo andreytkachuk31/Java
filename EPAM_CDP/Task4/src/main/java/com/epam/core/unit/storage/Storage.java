@@ -1,4 +1,4 @@
-package com.epam.core.storage;
+package com.epam.core.unit.storage;
 
 /**
  * @author Andrii_Tkachuk

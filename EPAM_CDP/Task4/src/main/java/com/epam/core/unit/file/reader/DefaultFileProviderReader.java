@@ -1,11 +1,10 @@
-package com.epam.core.file.reader;
+package com.epam.core.unit.file.reader;
 
 
 import com.epam.core.exception.FileReadException;
-import com.epam.core.file.json.JsonEntry;
-import com.epam.core.file.position.Position;
+import com.epam.core.unit.file.json.JsonEntry;
+import com.epam.core.unit.file.position.Position;
 import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
 
 import java.io.IOException;
 import java.nio.ByteBuffer;

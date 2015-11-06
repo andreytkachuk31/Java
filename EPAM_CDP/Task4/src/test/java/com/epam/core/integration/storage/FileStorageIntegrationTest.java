@@ -1,4 +1,4 @@
-package com.epam.core.storage;
+package com.epam.core.integration.storage;
 
 import org.junit.Test;
 
