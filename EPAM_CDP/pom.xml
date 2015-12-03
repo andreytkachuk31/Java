@@ -9,9 +9,10 @@
     <packaging>pom</packaging>
     <version>1.0</version>
 
-    <modules>        
-        <module>Task3</module>
-        <module>Task4</module>
+    <modules>
+        <module>FileStorage</module>
+        <module>Maven</module>
+        <module>Cache</module>
     </modules>
 
 </project>

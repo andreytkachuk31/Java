@@ -9,57 +9,97 @@
     <bookmark url="file://$PROJECT_DIR$/WebService/WebService_Standartalone/src/handler/MacAddressValidatorHandler.java" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="315a22c3-a2fb-4501-993d-4d8d660d3000" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/test/java/com/epam/core/file/reader/DefaultFileProviderReaderTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/test/java/com/epam/core/file/writer/DefaultFileProviderWriterTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/test/java/com/epam/core/file/index/DefaultIndexTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/exception/FileCompressException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/bootstrap/runner/FileRunner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/storage/FileStorage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/bootstrap/builder/FileStorageBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/bootstrap/compressor/FileStorageCompressor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/test/java/com/epam/core/storage/FileStorageTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/file/json/JsonEntry.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/bootstrap/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/bootstrap/runner/Runner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/bootstrap/builder/StorageBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/bootstrap/compressor/StorageCompressor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index_storage.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storage.txt" />
-      <change type="DELETED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\runner\Runner.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\storage\DefaultStorage.java" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\exception\FileReadException.java" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/exception/FileReadException.java" />
-      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\exception\FileWriteException.java" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/exception/FileWriteException.java" />
-      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\exception\NoSuchIndexException.java" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/exception/NoSuchIndexException.java" />
-      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\file\index\DefaultIndex.java" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/file/index/DefaultIndex.java" />
-      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\file\index\Index.java" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/file/index/Index.java" />
-      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\file\position\Position.java" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/file/position/Position.java" />
-      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\file\reader\DefaultFileProviderReader.java" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/file/reader/DefaultFileProviderReader.java" />
-      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\file\reader\FileProviderReader.java" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/file/reader/FileProviderReader.java" />
-      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\file\writer\DefaultFileProviderWriter.java" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/file/writer/DefaultFileProviderWriter.java" />
-      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\file\writer\FileProviderWriter.java" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/file/writer/FileProviderWriter.java" />
-      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\storage\Storage.java" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/storage/Storage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EPAM_CDP/Task4/Task4.iml" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/Task4.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EPAM_CDP/Task4/pom.xml" afterPath="$PROJECT_DIR$/EPAM_CDP/Task4/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
-    <list id="56fd0bee-f5f4-41d3-a870-6bc5e8cabea7" name="trash" comment="">
+    <list default="true" id="315a22c3-a2fb-4501-993d-4d8d660d3000" name="Default" comment="Make LDAP jar artifact">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Cache/src/main/java/com/epam/cache/AbstractCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Cache/src/main/java/com/epam/cachemanager/AbstractCacheManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Cache/Cache.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/FileStorage.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Cache/src/main/java/com/epam/cache/LFUCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Cache/src/main/java/com/epam/cacheconfiguration/LFUCacheConfiguration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Cache/src/main/java/com/epam/cachemanager/LFUCacheManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Cache/src/test/java/com/epam/cachemanager/LFUCacheManagerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Cache/src/test/java/com/epam/cache/LFUCacheTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Maven/Maven.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_27.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_cache_cache_api_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_8_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_14_0_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_8_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_8_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_powermock_powermock_api_mockito_1_4_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_powermock_powermock_api_support_1_4_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_powermock_powermock_core_1_4_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_powermock_powermock_module_junit4_1_4_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_powermock_powermock_module_junit4_common_1_4_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_powermock_powermock_module_testng_1_4_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_powermock_powermock_module_testng_common_1_4_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_powermock_powermock_reflect_1_4_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_6_1_RELEASE.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_ldap_spring_ldap_core_2_0_0_RELEASE.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_dao_2_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPAM_CDP/Maven/pom.xml" />
+      <change type="DELETED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task3\Task3.iml" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task2\Task2.iml" afterPath="$PROJECT_DIR$/EPAM_CDP/Java8/Java8.iml" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task2\src\MicroBenchmark.java" afterPath="$PROJECT_DIR$/EPAM_CDP/Java8/src/MicroBenchmark.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task2\src\Task7.java" afterPath="$PROJECT_DIR$/EPAM_CDP/Java8/src/Task7.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task2\src\Task8.java" afterPath="$PROJECT_DIR$/EPAM_CDP/Java8/src/Task8.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task3\pom.xml" afterPath="$PROJECT_DIR$/EPAM_CDP/Cache/pom.xml" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task3\src\main\java\com\epam\Calculator.java" afterPath="$PROJECT_DIR$/EPAM_CDP/Maven/src/main/java/com/epam/Calculator.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task3\src\test\java\com\epam\JunitCalculatorTest.java" afterPath="$PROJECT_DIR$/EPAM_CDP/Maven/src/test/java/com/epam/JunitCalculatorTest.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task3\src\test\java\com\epam\TestNGCalculatorTest.java" afterPath="$PROJECT_DIR$/EPAM_CDP/Maven/src/test/java/com/epam/TestNGCalculatorTest.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task3\src\test\java\com\epam\group\JunitGroupTests.java" afterPath="$PROJECT_DIR$/EPAM_CDP/Maven/src/test/java/com/epam/group/JunitGroupTests.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task3\testng.xml" afterPath="$PROJECT_DIR$/EPAM_CDP/Maven/testng.xml" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\Task4.iml" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/Task4.iml" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\pom.xml" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/pom.xml" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\bootstrap\Main.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/bootstrap/Main.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\bootstrap\builder\FileStorageBuilder.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/bootstrap/builder/FileStorageBuilder.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\bootstrap\builder\StorageBuilder.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/bootstrap/builder/StorageBuilder.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\bootstrap\compressor\FileStorageCompressor.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/bootstrap/compressor/FileStorageCompressor.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\bootstrap\compressor\StorageCompressor.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/bootstrap/compressor/StorageCompressor.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\bootstrap\runner\FileRunner.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/bootstrap/runner/FileRunner.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\bootstrap\runner\Runner.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/bootstrap/runner/Runner.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\core\exception\FileCompressException.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/core/exception/FileCompressException.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\core\exception\FileReadException.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/core/exception/FileReadException.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\core\exception\FileWriteException.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/core/exception/FileWriteException.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\core\exception\NoSuchIndexException.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/core/exception/NoSuchIndexException.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\core\unit\file\index\DefaultIndex.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/core/unit/file/index/DefaultIndex.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\core\unit\file\index\Index.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/core/unit/file/index/Index.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\core\unit\file\json\JsonEntry.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/core/unit/file/json/JsonEntry.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\core\unit\file\position\Position.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/core/unit/file/position/Position.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\core\unit\file\reader\DefaultFileProviderReader.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/core/unit/file/reader/DefaultFileProviderReader.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\core\unit\file\reader\FileProviderReader.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/core/unit/file/reader/FileProviderReader.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\core\unit\file\writer\DefaultFileProviderWriter.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/core/unit/file/writer/DefaultFileProviderWriter.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\core\unit\file\writer\FileProviderWriter.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/core/unit/file/writer/FileProviderWriter.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\core\unit\storage\FileStorage.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/core/unit/storage/FileStorage.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java\com\epam\core\unit\storage\Storage.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/core/unit/storage/Storage.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\test\java\com\epam\core\integration\storage\FileStorageIntegrationTest.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/test/java/com/epam/core/integration/storage/FileStorageIntegrationTest.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\test\java\com\epam\core\unit\file\index\DefaultIndexTest.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/test/java/com/epam/core/unit/file/index/DefaultIndexTest.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\test\java\com\epam\core\unit\file\reader\DefaultFileProviderReaderTest.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/test/java/com/epam/core/unit/file/reader/DefaultFileProviderReaderTest.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\test\java\com\epam\core\unit\file\writer\DefaultFileProviderWriterTest.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/test/java/com/epam/core/unit/file/writer/DefaultFileProviderWriterTest.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\test\java\com\epam\core\unit\storage\FileStorageTest.java" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/src/test/java/com/epam/core/unit/storage/FileStorageTest.java" />
+      <change type="MOVED" beforePath="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\storage.txt" afterPath="$PROJECT_DIR$/EPAM_CDP/FileStorage/storage.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EPAM_CDP/EPAM_CDP.iml" afterPath="$PROJECT_DIR$/EPAM_CDP/EPAM_CDP.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LDAP/LDAP_Web/LDAP_Web.iml" afterPath="$PROJECT_DIR$/LDAP/LDAP_Web/LDAP_Web.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EPAM_CDP/pom.xml" afterPath="$PROJECT_DIR$/EPAM_CDP/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
+    <list id="56fd0bee-f5f4-41d3-a870-6bc5e8cabea7" name="trash" comment="" />
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -78,6 +118,10 @@
     <ignored path="$PROJECT_DIR$/CDP/target/" />
     <ignored path="$PROJECT_DIR$/EPAM_CDP/Task3/target/" />
     <ignored path="$PROJECT_DIR$/EPAM_CDP/Task4/target/" />
+    <ignored path="$PROJECT_DIR$/EPAM_CDP/target/" />
+    <ignored path="$PROJECT_DIR$/EPAM_CDP/Maven/target/" />
+    <ignored path="$PROJECT_DIR$/EPAM_CDP/Cache/target/" />
+    <ignored path="$PROJECT_DIR$/EPAM_CDP/FileStorage/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +142,13 @@
     <SUITE FILE_PATH="coverage/Java$DefaultIndexTest.coverage" NAME="DefaultIndexTest Coverage Results" MODIFIED="1445940782978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.epam.core.file.index.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/Java$LFUCacheTest.coverage" NAME="LFUCacheTest Coverage Results" MODIFIED="1449150333327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.epam.cache.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Java$All_in_TDD.coverage" NAME="All in TDD Coverage Results" MODIFIED="1424086468442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Java$LFUCacheManagerTest.coverage" NAME="LFUCacheManagerTest Coverage Results" MODIFIED="1449136925933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.epam.cachemanager.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Java$All_in_Knights.coverage" NAME="All in Knights Coverage Results" MODIFIED="1423668869502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -155,11 +205,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FileStorage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/storage/FileStorage.java">
+      <file leaf-file-name="LFUCache.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EPAM_CDP/Cache/src/main/java/com/epam/cache/LFUCache.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1394">
-              <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1498" max-vertical-offset="2431">
+              <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -167,33 +217,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultFileProviderReaderTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/test/java/com/epam/core/file/reader/DefaultFileProviderReaderTest.java">
+      <file leaf-file-name="LFUCacheTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EPAM_CDP/Cache/src/test/java/com/epam/cache/LFUCacheTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39425287" vertical-offset="762" max-vertical-offset="1632">
-              <caret line="65" column="28" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DefaultFileProviderReader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/file/reader/DefaultFileProviderReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1003">
-              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.74252874" vertical-offset="0" max-vertical-offset="3315">
+              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Files.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/nio/file/Files.java">
+      <file leaf-file-name="LFUCacheConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EPAM_CDP/Cache/src/main/java/com/epam/cacheconfiguration/LFUCacheConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="17577" max-vertical-offset="63240">
-              <caret line="1124" column="23" selection-start-line="1124" selection-start-column="23" selection-end-line="1124" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+              <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -212,21 +250,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CDP/pom.xml" />
-        <option value="$PROJECT_DIR$/EPAM_CDP/Task3/pom.xml" />
-        <option value="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/file/index/DefaultIndex.java" />
-        <option value="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/file/index/Index.java" />
-        <option value="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/file/reader/FileProviderReader.java" />
-        <option value="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/storage/Storage.java" />
-        <option value="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/storage/DefaultStorage.java" />
-        <option value="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/file/writer/FileProviderWriter.java" />
-        <option value="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/file/writer/DefaultFileProviderWriter.java" />
-        <option value="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/storage/DefaultStorage.java" />
-        <option value="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/file/position/Position.java" />
-        <option value="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/runner/StorageBuilder.java" />
-        <option value="$PROJECT_DIR$/EPAM_CDP/Task4/src/test/java/com/epam/core/storage/FileStorageTest.java" />
-        <option value="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/storage/FileStorageTest.java" />
-        <option value="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/test/java/com/epam/core/storage/FileStorageTest.java" />
         <option value="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/test/java/com/epam/core/file/writer/DefaultFileProviderWriterTest.java" />
         <option value="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/test/java/com/epam/core/file/reader/DefaultFileProviderReaderTest.java" />
         <option value="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/test/java/com/epam/core/file/index/DefaultIndexTest.java" />
@@ -263,6 +286,21 @@
         <option value="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/storage/FileStorage.java" />
         <option value="$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/bootstrap/builder/FileStorageBuilder.java" />
         <option value="$PROJECT_DIR$/EPAM_CDP/Task4/src/test/java/com/epam/core/file/reader/DefaultFileProviderReaderTest.java" />
+        <option value="$PROJECT_DIR$/LDAP/LDAP_Web/pom.xml" />
+        <option value="$PROJECT_DIR$/EPAM_CDP/Cache/src/main/java/com/epam/core/exception/FileWriteException.java" />
+        <option value="$PROJECT_DIR$/EPAM_CDP/Maven/pom.xml" />
+        <option value="$PROJECT_DIR$/EPAM_CDP/FileStorage/pom.xml" />
+        <option value="$PROJECT_DIR$/EPAM_CDP/Cache/src/main/java/com/epam/cache/AbstractCache.java" />
+        <option value="$PROJECT_DIR$/EPAM_CDP/Cache/src/main/java/com/epam/cachemanager/AbstractCacheManager.java" />
+        <option value="$PROJECT_DIR$/EPAM_CDP/Cache/src/main/java/com/epam/cacheconfiguration/LFUCacheConfiguration.java" />
+        <option value="$PROJECT_DIR$/EPAM_CDP/Cache/src/main/java/com/epam/Main.java" />
+        <option value="$PROJECT_DIR$/EPAM_CDP/Cache/src/main/java/com/epam/Demo.java" />
+        <option value="$PROJECT_DIR$/EPAM_CDP/pom.xml" />
+        <option value="$PROJECT_DIR$/EPAM_CDP/Cache/pom.xml" />
+        <option value="$PROJECT_DIR$/EPAM_CDP/Cache/src/main/java/com/epam/cachemanager/LFUCacheManager.java" />
+        <option value="$PROJECT_DIR$/EPAM_CDP/Cache/src/test/java/com/epam/cachemanager/LFUCacheManagerTest.java" />
+        <option value="$PROJECT_DIR$/EPAM_CDP/Cache/src/test/java/com/epam/cache/LFUCacheTest.java" />
+        <option value="$PROJECT_DIR$/EPAM_CDP/Cache/src/main/java/com/epam/cache/LFUCache.java" />
       </list>
     </option>
   </component>
@@ -273,6 +311,14 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="enabledProfiles">
+      <list>
+        <option value="junit" />
+        <option value="testng" />
+      </list>
+    </option>
+  </component>
   <component name="MavenProjectNavigator">
     <option name="groupStructurally" value="true" />
     <treeState>
@@ -282,7 +328,37 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="task4" />
+          <option name="myItemId" value="parent" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Modules" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ModulesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="parent" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Modules" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ModulesNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="ldap" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Modules" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ModulesNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="ldap.test" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
       </PATH>
@@ -292,12 +368,56 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="task4" />
+          <option name="myItemId" value="parent" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Modules" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ModulesNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="ldap" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Modules" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ModulesNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="ldap.test" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
           <option name="myItemId" value="Lifecycle" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="parent" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Modules" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ModulesNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="ldap" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="parent" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
       </PATH>
       <PATH>
@@ -337,8 +457,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -385,7 +503,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Task4" />
+              <option name="myItemId" value="Cache" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -403,7 +521,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Task4" />
+              <option name="myItemId" value="Cache" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -419,7 +537,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
+              <option name="myItemId" value="epam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cachemanager" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -437,7 +559,41 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Task4" />
+              <option name="myItemId" value="Cache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EPAM_CDP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cache" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -457,20 +613,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EPAM_CDP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Cache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="epam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.lastSelected" value="configurable.group.editor" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EPAM_CDP/Task3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/EPAM_CDP" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -497,11 +693,11 @@
       <recent name="exception" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Cache" />
+      <recent name="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Cache\src" />
       <recent name="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src\main\java" />
       <recent name="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4" />
       <recent name="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task3\src\test\java" />
-      <recent name="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task3\src\main\java" />
-      <recent name="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Andrii_Tkachuk\IdeaProjects\Java\EPAM_CDP\Task4\src" />
@@ -519,117 +715,26 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.epam.cachemanager" />
+      <recent name="com.epam.cache" />
       <recent name="com.epam.core.file.index" />
       <recent name="com.epam.core.file.writer" />
       <recent name="com.epam.core.file.reader" />
-      <recent name="com.epam.core.storage" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DefaultFileProviderReaderTest">
-    <configuration default="false" name="FileStorageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LFUCacheTest">
+    <configuration default="false" name="LFUCacheTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.epam.core.storage.*" />
+          <option name="PATTERN" value="com.epam.cache.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="Task4" />
+      <module name="Cache" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.epam.core.storage" />
-      <option name="MAIN_CLASS_NAME" value="com.epam.core.storage.FileStorageTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Cover" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Cover" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="DefaultFileProviderReaderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.epam.core.file.reader.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Task4" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.epam.core.file.reader" />
-      <option name="MAIN_CLASS_NAME" value="com.epam.core.file.reader.DefaultFileProviderReaderTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="DefaultFileProviderWriterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.epam.core.file.writer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Task4" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.epam.core.file.writer" />
-      <option name="MAIN_CLASS_NAME" value="com.epam.core.file.writer.DefaultFileProviderWriterTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="DefaultIndexTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.epam.core.file.index.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Task4" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.epam.core.file.index" />
-      <option name="MAIN_CLASS_NAME" value="com.epam.core.file.index.DefaultIndexTest" />
+      <option name="PACKAGE_NAME" value="com.epam.cache" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.cache.LFUCacheTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -654,25 +759,33 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="LFUCacheManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.epam.bootstrap.*" />
+          <option name="PATTERN" value="com.epam.cachemanager.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.epam.bootstrap.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <module name="Cache" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="com.epam.cachemanager" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.cachemanager.LFUCacheManagerTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Task4" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
       <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Cover" />
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Cover" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -888,20 +1001,14 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.FileStorageTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.DefaultFileProviderReaderTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.DefaultFileProviderWriterTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.DefaultIndexTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.LFUCacheTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.LFUCacheManagerTest" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.DefaultFileProviderReaderTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.DefaultFileProviderWriterTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.FileStorageTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.DefaultIndexTest" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.LFUCacheTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.LFUCacheManagerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -986,7 +1093,13 @@
       <option name="project" value="LOCAL" />
       <updated>1438789418687</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Make LDAP jar artifact">
+      <created>1447230818285</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1447230818285</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <option name="createBranch" value="false" />
     <servers />
   </component>
@@ -995,7 +1108,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1008,12 +1121,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32739422" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1023,35 +1134,37 @@
       <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962137" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962137" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962137" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32739422" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32739422" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942432" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997773" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997773" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32739422" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32739422" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -1081,14 +1194,15 @@
     <MESSAGE value="Spring project" />
     <MESSAGE value="Spring MVC and Spring Web Flow project" />
     <MESSAGE value="LDAP project" />
-    <option name="LAST_COMMIT_MESSAGE" value="LDAP project" />
+    <MESSAGE value="Make LDAP jar artifact" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make LDAP jar artifact" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="93" />
+      <option name="time" value="96" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1097,425 +1211,402 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task3/src/test/java/com/epam/group/JunitGroupTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/exception/NoSuchIndexException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2361111" vertical-offset="0" max-vertical-offset="576">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="16693" max-vertical-offset="37638">
-          <caret line="1032" column="19" selection-start-line="1032" selection-start-column="19" selection-end-line="1032" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IO/src/BenchmarkingStreams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33275262" vertical-offset="897" max-vertical-offset="1785">
-          <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/exception/FileCompressException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11724138" vertical-offset="0" max-vertical-offset="870">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/nio/charset/Charset.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35517243" vertical-offset="9381" max-vertical-offset="14977">
-          <caret line="612" column="45" selection-start-line="612" selection-start-column="45" selection-end-line="612" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/nio/file/StandardOpenOption.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1954023" vertical-offset="0" max-vertical-offset="1836">
-          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#3854#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/nio/channels/SeekableByteChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="390" max-vertical-offset="2550">
-          <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="49775" max-vertical-offset="53159">
-          <caret line="2980" column="25" selection-start-line="2980" selection-start-column="25" selection-end-line="2980" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2889" max-vertical-offset="12189">
-          <caret line="210" column="12" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/io/ByteArrayOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.7873564" vertical-offset="3652" max-vertical-offset="4522">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/bootstrap/runner/Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15632184" vertical-offset="0" max-vertical-offset="870">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/nio/file/Paths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1333333" vertical-offset="0" max-vertical-offset="2227">
-          <caret line="82" column="23" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/nio/file/Path.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="917" max-vertical-offset="13277">
-          <caret line="97" column="17" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/nio/ByteBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5983" max-vertical-offset="35003">
-          <caret line="394" column="29" selection-start-line="394" selection-start-column="29" selection-end-line="394" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/jre/lib/rt.jar!/sun/nio/ch/FileChannelImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.4" vertical-offset="2316" max-vertical-offset="21539">
-          <caret line="190" column="15" selection-start-line="190" selection-start-column="15" selection-end-line="190" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/nio/MappedByteBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7264368" vertical-offset="65" max-vertical-offset="3281">
-          <caret line="65" column="22" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/nio/channels/FileChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="14704" max-vertical-offset="19244">
-          <caret line="914" column="25" selection-start-line="914" selection-start-column="25" selection-end-line="914" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/io/FileReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="67" max-vertical-offset="1156">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.4/gson-2.4.jar!/com/google/gson/GsonBuilder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3927">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.3/gson-2.3.jar!/com/google/gson/Gson.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6129808" vertical-offset="612" max-vertical-offset="7803">
-          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/io/FileWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2701149" vertical-offset="0" max-vertical-offset="1734">
-          <caret line="88" column="11" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/benchmarking_streams.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.1306884" vertical-offset="969" max-vertical-offset="214846">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/bootstrap/compressor/StorageCompressor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1954023" vertical-offset="0" max-vertical-offset="870">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/storage/Storage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.01954023" vertical-offset="0" max-vertical-offset="870">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/bootstrap/builder/StorageBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1954023" vertical-offset="0" max-vertical-offset="870">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/file/reader/FileProviderReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/file/writer/FileProviderWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/io/OutputStreamWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5505747" vertical-offset="2802" max-vertical-offset="3672">
-          <caret line="218" column="16" selection-start-line="218" selection-start-column="16" selection-end-line="218" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/file/index/DefaultIndex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7229885" vertical-offset="0" max-vertical-offset="870">
-          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/file/index/Index.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35172415" vertical-offset="0" max-vertical-offset="870">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.4/gson-2.4.jar!/com/google/gson/Gson.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.48" vertical-offset="5610" max-vertical-offset="7871">
-          <caret line="394" column="17" selection-start-line="394" selection-start-column="17" selection-end-line="394" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5505747" vertical-offset="167" max-vertical-offset="1139">
-          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/file/json/JsonEntry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21494253" vertical-offset="0" max-vertical-offset="935">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/file/writer/DefaultFileProviderWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="490" max-vertical-offset="1411">
-          <caret line="64" column="41" selection-start-line="64" selection-start-column="41" selection-end-line="64" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index_storage.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/test/java/com/epam/core/file/index/DefaultIndexTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="33" max-vertical-offset="1734">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/test/java/com/epam/core/storage/FileStorageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="1955">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/test/java/com/epam/core/file/writer/DefaultFileProviderWriterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5114943" vertical-offset="405" max-vertical-offset="1275">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/1.8.5/mockito-core-1.8.5.jar!/org/mockito/Spy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22130178" vertical-offset="0" max-vertical-offset="845">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/bootstrap/compressor/FileStorageCompressor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/nio/file/spi/FileSystemProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="8737" max-vertical-offset="18292">
-          <caret line="564" column="40" selection-start-line="564" selection-start-column="40" selection-end-line="564" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/storage.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870">
           <caret line="0" column="68" selection-start-line="0" selection-start-column="68" selection-end-line="0" selection-end-column="68" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/bootstrap/builder/FileStorageBuilder.java">
+    <entry file="file://$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/bootstrap/builder/FileStorageBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870">
           <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/bootstrap/runner/FileRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1267362" vertical-offset="269" max-vertical-offset="1139">
+          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/bootstrap/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35416666" vertical-offset="0" max-vertical-offset="576">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/core/unit/file/position/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03908046" vertical-offset="0" max-vertical-offset="1088">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/core/unit/file/reader/DefaultFileProviderReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11724138" vertical-offset="0" max-vertical-offset="1156">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_8_7.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23448277" vertical-offset="0" max-vertical-offset="870">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/nio/file/Files.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="17577" max-vertical-offset="63240">
-          <caret line="1124" column="23" selection-start-line="1124" selection-start-column="23" selection-end-line="1124" selection-end-column="23" />
+          <caret line="1144" column="6" selection-start-line="1144" selection-start-column="6" selection-end-line="1144" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EPAM_CDP/FileStorage/src/main/java/com/epam/core/unit/storage/FileStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1309">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LDAP/LDAP_Standartalone/src/LDAP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17708333" vertical-offset="0" max-vertical-offset="1088">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5868056" vertical-offset="121" max-vertical-offset="952">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LDAP/LDAP_Web/src/main/java/dao/impl/PersonDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17586207" vertical-offset="0" max-vertical-offset="870">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EPAM_CDP/FileStorage/src/test/java/com/epam/core/unit/storage/FileStorageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5471264" vertical-offset="510" max-vertical-offset="1734">
+          <caret line="71" column="38" selection-start-line="71" selection-start-column="38" selection-end-line="71" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LDAP/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LDAP/LDAP_Web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EPAM_CDP/FileStorage/src/test/java/com/epam/core/integration/storage/FileStorageIntegrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088">
+          <caret line="32" column="72" selection-start-line="32" selection-start-column="72" selection-end-line="32" selection-end-column="72" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/bootstrap/runner/FileRunner.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/javax/xml/bind/JAXB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1267362" vertical-offset="269" max-vertical-offset="1139">
-          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.23563218" vertical-offset="798" max-vertical-offset="10098">
+          <caret line="100" column="18" selection-start-line="100" selection-start-column="18" selection-end-line="100" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Maven/src/main/java/com/epam/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/cache/cache-api/1.0.0/cache-api-1.0.0.jar!/javax/cache/Cache.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.2" vertical-offset="0" max-vertical-offset="1309">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="2838" max-vertical-offset="13940">
+          <caret line="207" column="13" selection-start-line="207" selection-start-column="13" selection-end-line="207" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="8682" max-vertical-offset="40018">
+          <caret line="553" column="14" selection-start-line="553" selection-start-column="14" selection-end-line="553" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/cache/cache-api/1.0.0/cache-api-1.0.0-sources.jar!/javax/cache/event/CacheEntryEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.5520833" vertical-offset="556" max-vertical-offset="1139">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.41034484" vertical-offset="1377" max-vertical-offset="4692">
+          <caret line="83" column="12" selection-start-line="83" selection-start-column="12" selection-end-line="83" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.018390805" vertical-offset="1784" max-vertical-offset="94095">
+          <caret line="139" column="57" selection-start-line="139" selection-start-column="57" selection-end-line="139" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5371" max-vertical-offset="19771">
+          <caret line="359" column="25" selection-start-line="359" selection-start-column="25" selection-end-line="359" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4521" max-vertical-offset="12189">
+          <caret line="306" column="12" selection-start-line="306" selection-start-column="12" selection-end-line="306" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.jar!/com/google/common/collect/Lists.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18389423" vertical-offset="0" max-vertical-offset="10200">
+          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2019" max-vertical-offset="5593">
+          <caret line="156" column="16" selection-start-line="156" selection-start-column="16" selection-end-line="156" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/cache/cache-api/1.0.0/cache-api-1.0.0-sources.jar!/javax/cache/spi/CachingProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9528736" vertical-offset="2039" max-vertical-offset="2941">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/cache/cache-api/1.0.0/cache-api-1.0.0.jar!/javax/cache/CacheManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="12902" max-vertical-offset="18785">
+          <caret line="822" column="16" selection-start-line="822" selection-start-column="16" selection-end-line="822" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/cache/cache-api/1.0.0/cache-api-1.0.0-sources.jar!/javax/cache/CacheManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35287356" vertical-offset="1920" max-vertical-offset="6205">
+          <caret line="142" column="79" selection-start-line="142" selection-start-column="66" selection-end-line="142" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Cache/src/main/java/com/epam/cachemanager/AbstractCacheManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="237" max-vertical-offset="1462">
+          <caret line="36" column="61" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Salesman/src/main/java/service/task/impl/TaskServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="33" max-vertical-offset="1020">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Salesman/src/main/java/web/salesman/SalesmanServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35172415" vertical-offset="0" max-vertical-offset="870">
+          <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Salesman/src/main/java/web/task/TaskServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42988506" vertical-offset="0" max-vertical-offset="870">
+          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Salesman/src/main/java/model/method/BruteForce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41034484" vertical-offset="0" max-vertical-offset="1258">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Cache/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37126437" vertical-offset="0" max-vertical-offset="870">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EPAM_CDP/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2735632" vertical-offset="0" max-vertical-offset="870">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EPAM_CDP/FileStorage/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11724138" vertical-offset="0" max-vertical-offset="1700">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Maven/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11724138" vertical-offset="0" max-vertical-offset="2567">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/cache/cache-api/1.0.0/cache-api-1.0.0-sources.jar!/javax/cache/Cache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8414" max-vertical-offset="12750">
+          <caret line="531" column="36" selection-start-line="531" selection-start-column="36" selection-end-line="531" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5235" max-vertical-offset="60809">
+          <caret line="392" column="13" selection-start-line="392" selection-start-column="13" selection-end-line="392" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Cache/src/main/java/com/epam/cache/AbstractCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3321492" vertical-offset="119" max-vertical-offset="2822">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/bootstrap/Main.java">
+    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Cache/src/main/java/com/epam/cachemanager/LFUCacheManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35416666" vertical-offset="0" max-vertical-offset="576">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/storage/FileStorage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1394">
-          <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="406" max-vertical-offset="1428">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/main/java/com/epam/core/file/reader/DefaultFileProviderReader.java">
+    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Cache/src/test/java/com/epam/cachemanager/LFUCacheManagerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1003">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.53103447" vertical-offset="660" max-vertical-offset="1530">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Task4/src/test/java/com/epam/core/file/reader/DefaultFileProviderReaderTest.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/cache/cache-api/1.0.0/cache-api-1.0.0-sources.jar!/javax/cache/configuration/MutableConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39425287" vertical-offset="762" max-vertical-offset="1632">
-          <caret line="65" column="28" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="63" max-vertical-offset="8602">
+          <caret line="37" column="33" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/cache/cache-api/1.0.0/cache-api-1.0.0-sources.jar!/javax/cache/configuration/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="182" max-vertical-offset="1224">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Cache/src/main/java/com/epam/cacheconfiguration/LFUCacheConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Cache/src/main/java/com/epam/cache/LFUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1498" max-vertical-offset="2431">
+          <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EPAM_CDP/Cache/src/test/java/com/epam/cache/LFUCacheTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74252874" vertical-offset="0" max-vertical-offset="3315">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1582,7 +1673,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

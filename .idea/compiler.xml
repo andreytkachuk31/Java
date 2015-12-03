@@ -22,6 +22,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="Cache" />
+        <module name="FileStorage" />
         <module name="ifobs-bczcard" />
         <module name="ifobs-bl-commonbl" />
         <module name="ifobs-bl-datadispatcher" />
@@ -190,6 +192,8 @@
         <module name="ifobs2-wm-ear" />
         <module name="ifobs2-wm-war" />
         <module name="LDAP_Web" />
+        <module name="maven" />
+        <module name="Maven" />
         <module name="Salesman" />
         <module name="Spring MVC" />
         <module name="Spring Web Flow" />
@@ -201,6 +205,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Cache" target="1.8" />
+      <module name="FileStorage" target="1.8" />
       <module name="ifobs" target="1.7" />
       <module name="ifobs-apps" target="1.7" />
       <module name="ifobs-bczcard" target="1.7" />
@@ -446,11 +452,14 @@
       <module name="ifobs2-wm" target="1.7" />
       <module name="ifobs2-wm-ear" target="1.7" />
       <module name="ifobs2-wm-war" target="1.7" />
-      <module name="maven" target="1.7" />
+      <module name="LDAP_Web" target="1.7" />
+      <module name="Maven" target="1.8" />
+      <module name="maven" target="1.8" />
       <module name="Salesman" target="1.7" />
       <module name="Spring" target="1.7" />
       <module name="Spring MVC" target="1.7" />
       <module name="Spring Web Flow" target="1.7" />
+      <module name="Task3" target="1.8" />
       <module name="Task4" target="1.8" />
       <module name="TDD" target="1.7" />
     </bytecodeTargetLevel>
