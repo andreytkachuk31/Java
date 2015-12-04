@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="Cache" />
+        <module name="event-tickets-booking" />
         <module name="FileStorage" />
         <module name="ifobs-bczcard" />
         <module name="ifobs-bl-commonbl" />
@@ -197,6 +198,7 @@
         <module name="Salesman" />
         <module name="Spring MVC" />
         <module name="Spring Web Flow" />
+        <module name="Spring_Booking" />
         <module name="Task3" />
         <module name="Task4" />
         <module name="TDD" />
@@ -206,6 +208,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Cache" target="1.8" />
+      <module name="event-tickets-booking" target="1.8" />
       <module name="FileStorage" target="1.8" />
       <module name="ifobs" target="1.7" />
       <module name="ifobs-apps" target="1.7" />
@@ -459,6 +462,7 @@
       <module name="Spring" target="1.7" />
       <module name="Spring MVC" target="1.7" />
       <module name="Spring Web Flow" target="1.7" />
+      <module name="Spring_Booking" target="1.8" />
       <module name="Task3" target="1.8" />
       <module name="Task4" target="1.8" />
       <module name="TDD" target="1.7" />

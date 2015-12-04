@@ -21,11 +21,13 @@
       <module fileurl="file://$PROJECT_DIR$/Spring/Spring.iml" filepath="$PROJECT_DIR$/Spring/Spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring/Spring MVC/Spring MVC.iml" filepath="$PROJECT_DIR$/Spring/Spring MVC/Spring MVC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring/Spring Web Flow/Spring Web Flow.iml" filepath="$PROJECT_DIR$/Spring/Spring Web Flow/Spring Web Flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM_CDP/Spring_Booking/Spring_Booking.iml" filepath="$PROJECT_DIR$/EPAM_CDP/Spring_Booking/Spring_Booking.iml" />
       <module fileurl="file://$PROJECT_DIR$/Struts/Struts.iml" filepath="$PROJECT_DIR$/Struts/Struts.iml" />
       <module fileurl="file://$PROJECT_DIR$/TDD/TDD.iml" filepath="$PROJECT_DIR$/TDD/TDD.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebService/WebService.iml" filepath="$PROJECT_DIR$/WebService/WebService.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebService/WebService_Standartalone/WebService_Standartalone.iml" filepath="$PROJECT_DIR$/WebService/WebService_Standartalone/WebService_Standartalone.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebService/WebService_Web/WebService_Web.iml" filepath="$PROJECT_DIR$/WebService/WebService_Web/WebService_Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CDP/Module3/Hw1/event-tickets-booking/event-tickets-booking.iml" filepath="$PROJECT_DIR$/../CDP/Module3/Hw1/event-tickets-booking/event-tickets-booking.iml" />
     </modules>
   </component>
 </project>

@@ -13,6 +13,7 @@
         <module>FileStorage</module>
         <module>Maven</module>
         <module>Cache</module>
+        <module>Spring_Booking</module>
     </modules>
 
 </project>
