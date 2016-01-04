@@ -16,6 +16,7 @@
         <module>TDD</module>
         <module>LDAP</module>
         <module>EPAM_CDP</module>
+        <module>GWT</module>
     </modules>
 
 </project>

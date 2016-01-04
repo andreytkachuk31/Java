@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/EJB/EJB.iml" filepath="$PROJECT_DIR$/EJB/EJB.iml" />
       <module fileurl="file://$PROJECT_DIR$/EPAM_CDP/EPAM_CDP.iml" filepath="$PROJECT_DIR$/EPAM_CDP/EPAM_CDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/EPAM_CDP/FileStorage/FileStorage.iml" filepath="$PROJECT_DIR$/EPAM_CDP/FileStorage/FileStorage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GWT/GWT.iml" filepath="$PROJECT_DIR$/GWT/GWT.iml" />
       <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/EPAM_CDP/Java8/Java8.iml" filepath="$PROJECT_DIR$/EPAM_CDP/Java8/Java8.iml" />
