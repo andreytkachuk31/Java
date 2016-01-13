@@ -4,7 +4,7 @@
 	http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>stalker.company</groupId>
+    <groupId>ua.com.development</groupId>
     <artifactId>spring</artifactId>
     <packaging>pom</packaging>
     <version>1.0</version>
@@ -12,6 +12,7 @@
     <modules>
         <module>Spring MVC</module>
         <module>Spring Web Flow</module>
+        <module>Spring REST</module>
     </modules>
 
     <dependencies>
