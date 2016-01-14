@@ -6,6 +6,7 @@ import com.google.gwt.event.dom.client.ClickEvent;
 import com.google.gwt.event.dom.client.ClickHandler;
 import com.google.gwt.i18n.client.DateTimeFormat;
 import com.google.gwt.i18n.client.NumberFormat;
+import com.google.gwt.sample.stockwatcher.client.widget.UserProfile;
 import com.google.gwt.user.client.Random;
 import com.google.gwt.user.client.Timer;
 import com.google.gwt.user.client.Window;
@@ -19,7 +20,7 @@ import java.util.List;
 /**
  * Entry point classes define <code>onModuleLoad()</code>
  */
-public class StockWatcher implements EntryPoint {
+public class StockWatcherEntryPoint implements EntryPoint {
 
     private static final int REFRESH_INTERVAL = 5000; // ms
 
@@ -48,6 +49,10 @@ public class StockWatcher implements EntryPoint {
         refreshPrice();
 
         RootPanel.get("stockList").add(verticalPanel);
+
+        /*** Ui Binder ***/
+        UserProfile userProfile = new UserProfile();
+        RootPanel.get("userProfile").add(userProfile);
     }
 
     private FlexTable createStockTable() {

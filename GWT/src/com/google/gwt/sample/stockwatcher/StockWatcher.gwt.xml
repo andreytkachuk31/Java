@@ -6,7 +6,7 @@
     <inherits name='com.google.gwt.user.User'/>
 
     <!-- Specify the app entry point class.                   -->
-    <entry-point class='com.google.gwt.sample.stockwatcher.client.StockWatcher'/>
+    <entry-point class='com.google.gwt.sample.stockwatcher.client.StockWatcherEntryPoint'/>
 
 
     <!-- Specify the app servlets.                   -->
