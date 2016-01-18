@@ -91,6 +91,10 @@
     <file type="javaeeApplication" url="file://D:/iFOBS/apps/ifobs2/ifobs2-sessions/ifobs2-sessions-open/ifobs2-sessions-open-ear" />
     <file type="javaeeApplication" url="file://D:/iFOBS/apps/ifobs2/ifobs2-sessions/ifobs2-sessions-ssi/ifobs2-sessions-ssi-ear" />
     <file type="javaeeApplication" url="file://D:/iFOBS/apps/ifobs2/ifobs2-sessions/ifobs2-sessions-wm/ifobs2-sessions-wm-ear" />
+    <file type="web" url="file://$PROJECT_DIR$/Salesman" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring/Spring MVC" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring/Spring REST" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring/Spring Web Flow" />
     <file type="web" url="file://$PROJECT_DIR$/WebService/WebService_Web" />
     <file type="web" url="file://D:/iFOBS/apps/ifobs-bl/ifobs-bl-startup" />
     <file type="web" url="file://D:/iFOBS/apps/ifobs-blcards/ifobs-blcards-cardsdispatcherservices" />
@@ -170,6 +174,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/GWT/pom.xml" />
         <option value="$PROJECT_DIR$/Spring/pom.xml" />
         <option value="D:/iFOBS/apps/ifobs-bl/ifobs-bl-commonbl/pom.xml" />
         <option value="D:/iFOBS/apps/ifobs-bl/ifobs-bl-datadispatcher/pom.xml" />
