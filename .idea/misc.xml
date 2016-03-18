@@ -24,6 +24,7 @@
     <file type="ejb" url="file://D:/iFOBS/apps/ifobs2/ifobs2-sessions/ifobs2-sessions-open/ifobs2-sessions-open-ejb" />
     <file type="ejb" url="file://D:/iFOBS/apps/ifobs2/ifobs2-sessions/ifobs2-sessions-ssi/ifobs2-sessions-ssi-ejb" />
     <file type="ejb" url="file://D:/iFOBS/apps/ifobs2/ifobs2-sessions/ifobs2-sessions-wm/ifobs2-sessions-wm-ejb" />
+    <file type="javaeeApplication" url="file://$PROJECT_DIR$/JavaEE/EJB" />
     <file type="javaeeApplication" url="file://D:/iFOBS/apps/ifobs-bl/ifobs-bl-ear" />
     <file type="javaeeApplication" url="file://D:/iFOBS/apps/ifobs-blcards/ifobs-blcards-ear" />
     <file type="javaeeApplication" url="file://D:/iFOBS/apps/ifobs-external/ifobs-cardsonline/ifobs-cardsonline-ear" />
@@ -91,10 +92,12 @@
     <file type="javaeeApplication" url="file://D:/iFOBS/apps/ifobs2/ifobs2-sessions/ifobs2-sessions-open/ifobs2-sessions-open-ear" />
     <file type="javaeeApplication" url="file://D:/iFOBS/apps/ifobs2/ifobs2-sessions/ifobs2-sessions-ssi/ifobs2-sessions-ssi-ear" />
     <file type="javaeeApplication" url="file://D:/iFOBS/apps/ifobs2/ifobs2-sessions/ifobs2-sessions-wm/ifobs2-sessions-wm-ear" />
-    <file type="web" url="file://$PROJECT_DIR$/Salesman" />
-    <file type="web" url="file://$PROJECT_DIR$/Spring/Spring MVC" />
-    <file type="web" url="file://$PROJECT_DIR$/Spring/Spring REST" />
-    <file type="web" url="file://$PROJECT_DIR$/Spring/Spring Web Flow" />
+    <file type="web" url="file://$PROJECT_DIR$/JavaEE/Rest" />
+    <file type="web" url="file://$PROJECT_DIR$/JavaEE/Spring/Spring MVC" />
+    <file type="web" url="file://$PROJECT_DIR$/JavaEE/Spring/Spring REST" />
+    <file type="web" url="file://$PROJECT_DIR$/JavaEE/Spring/Spring Web Flow" />
+    <file type="web" url="file://$PROJECT_DIR$/JavaEE/Struts" />
+    <file type="web" url="file://$PROJECT_DIR$/JavaSE/Salesman" />
     <file type="web" url="file://$PROJECT_DIR$/WebService/WebService_Web" />
     <file type="web" url="file://D:/iFOBS/apps/ifobs-bl/ifobs-bl-startup" />
     <file type="web" url="file://D:/iFOBS/apps/ifobs-blcards/ifobs-blcards-cardsdispatcherservices" />
@@ -170,6 +173,10 @@
         <option value="$PROJECT_DIR$/EPAM_CDP/pom.xml" />
         <option value="$PROJECT_DIR$/EPAM_CDP/Cache/pom.xml" />
         <option value="$PROJECT_DIR$/../CDP/Module3/Hw1/event-tickets-booking/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaEE/EJB/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaEE/Rest/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaSE/Salesman/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaSE/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

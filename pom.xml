@@ -10,12 +10,12 @@
     <version>1.0</version>
 
     <modules>
-        <module>Spring</module>
-        <module>Salesman</module>
+        <module>JavaEE</module>
+        <module>JavaSE</module>
+        <module>EPAM</module>
+
         <module>WebService</module>
-        <module>TDD</module>
         <module>LDAP</module>
-        <module>EPAM_CDP</module>
     </modules>
 
 </project>

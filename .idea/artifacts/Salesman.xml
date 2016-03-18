@@ -7,16 +7,15 @@
           <element id="module-output" name="Salesman" />
         </element>
         <element id="directory" name="lib">
-          <element id="file-copy" path="$PROJECT_DIR$/Salesman/src/main/webapp/WEB-INF/lib/asm-4.1.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/Salesman/src/main/webapp/WEB-INF/lib/datanucleus-appengine-1.0.10.final.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/Salesman/src/main/webapp/WEB-INF/lib/datanucleus-core-1.1.5.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/Salesman/src/main/webapp/WEB-INF/lib/datanucleus-enhancer-1.1.4.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/Salesman/src/main/webapp/WEB-INF/lib/datanucleus-jpa-1.1.5.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/Salesman/src/main/webapp/WEB-INF/lib/geronimo-jpa_3.0_spec-1.1.1.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/Salesman/src/main/webapp/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/Salesman/src/main/webapp/WEB-INF/lib/jdo2-api-2.3-eb.jar" />
-          <element id="file-copy" path="$PROJECT_DIR$/Salesman/src/main/webapp/WEB-INF/lib/json.jar" />
-          <element id="library" level="project" name="lib1" />
+          <element id="file-copy" path="$PROJECT_DIR$/JavaSE/Salesman/src/main/webapp/WEB-INF/lib/asm-4.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JavaSE/Salesman/src/main/webapp/WEB-INF/lib/datanucleus-appengine-1.0.10.final.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JavaSE/Salesman/src/main/webapp/WEB-INF/lib/datanucleus-core-1.1.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JavaSE/Salesman/src/main/webapp/WEB-INF/lib/datanucleus-enhancer-1.1.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JavaSE/Salesman/src/main/webapp/WEB-INF/lib/datanucleus-jpa-1.1.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JavaSE/Salesman/src/main/webapp/WEB-INF/lib/geronimo-jpa_3.0_spec-1.1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JavaSE/Salesman/src/main/webapp/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JavaSE/Salesman/src/main/webapp/WEB-INF/lib/jdo2-api-2.3-eb.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/JavaSE/Salesman/src/main/webapp/WEB-INF/lib/json.jar" />
         </element>
       </element>
     </root>

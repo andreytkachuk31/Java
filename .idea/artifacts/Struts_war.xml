@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Struts:war">
+    <output-path>$PROJECT_DIR$/JavaEE/Struts/target</output-path>
+    <root id="archive" name="struts-1.0.war">
+      <element id="artifact" artifact-name="Struts:war exploded" />
+    </root>
+  </artifact>
+</component>

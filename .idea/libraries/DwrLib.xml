@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="DwrLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JavaEE/DWR/web/WEB-INF/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JavaEE/DWR/web/WEB-INF/lib/dwr.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/DWR/web/WEB-INF/lib" recursive="false" />
+  </library>
+</component>

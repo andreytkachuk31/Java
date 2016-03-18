@@ -2,30 +2,34 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Algorithm_DataStructure/Algorithm_DataStructure.iml" filepath="$PROJECT_DIR$/Algorithm_DataStructure/Algorithm_DataStructure.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EPAM_CDP/Cache/Cache.iml" filepath="$PROJECT_DIR$/EPAM_CDP/Cache/Cache.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DWR/DWR.iml" filepath="$PROJECT_DIR$/DWR/DWR.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EJB/EJB.iml" filepath="$PROJECT_DIR$/EJB/EJB.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EPAM_CDP/EPAM_CDP.iml" filepath="$PROJECT_DIR$/EPAM_CDP/EPAM_CDP.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EPAM_CDP/FileStorage/FileStorage.iml" filepath="$PROJECT_DIR$/EPAM_CDP/FileStorage/FileStorage.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GWT/GWT.iml" filepath="$PROJECT_DIR$/GWT/GWT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/Algorithm_DataStructure/Algorithm_DataStructure.iml" filepath="$PROJECT_DIR$/JavaSE/Algorithm_DataStructure/Algorithm_DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM/Cache/Cache.iml" filepath="$PROJECT_DIR$/EPAM/Cache/Cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/DWR/DWR.iml" filepath="$PROJECT_DIR$/JavaEE/DWR/DWR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/EJB/EJB.iml" filepath="$PROJECT_DIR$/JavaEE/EJB/EJB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM/EPAM.iml" filepath="$PROJECT_DIR$/EPAM/EPAM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM/EPAM_CDP.iml" filepath="$PROJECT_DIR$/EPAM/EPAM_CDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM/FileStorage/FileStorage.iml" filepath="$PROJECT_DIR$/EPAM/FileStorage/FileStorage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/GWT/GWT.iml" filepath="$PROJECT_DIR$/JavaEE/GWT/GWT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/IO/IO.iml" filepath="$PROJECT_DIR$/JavaSE/IO/IO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EPAM_CDP/Java8/Java8.iml" filepath="$PROJECT_DIR$/EPAM_CDP/Java8/Java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM/Java8/Java8.iml" filepath="$PROJECT_DIR$/EPAM/Java8/Java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/JavaEE.iml" filepath="$PROJECT_DIR$/JavaEE/JavaEE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/JavaSE.iml" filepath="$PROJECT_DIR$/JavaSE/JavaSE.iml" />
       <module fileurl="file://$PROJECT_DIR$/LDAP/LDAP.iml" filepath="$PROJECT_DIR$/LDAP/LDAP.iml" />
       <module fileurl="file://$PROJECT_DIR$/LDAP/LDAP_Standartalone/LDAP_Standartalone.iml" filepath="$PROJECT_DIR$/LDAP/LDAP_Standartalone/LDAP_Standartalone.iml" />
       <module fileurl="file://$PROJECT_DIR$/LDAP/LDAP_Web/LDAP_Web.iml" filepath="$PROJECT_DIR$/LDAP/LDAP_Web/LDAP_Web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EPAM_CDP/Maven/Maven.iml" filepath="$PROJECT_DIR$/EPAM_CDP/Maven/Maven.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RMI/RMI.iml" filepath="$PROJECT_DIR$/RMI/RMI.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Rest/Rest.iml" filepath="$PROJECT_DIR$/Rest/Rest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Salesman/Salesman.iml" filepath="$PROJECT_DIR$/Salesman/Salesman.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Spring/Spring.iml" filepath="$PROJECT_DIR$/Spring/Spring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Spring/Spring MVC/Spring MVC.iml" filepath="$PROJECT_DIR$/Spring/Spring MVC/Spring MVC.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Spring/Spring REST/Spring REST.iml" filepath="$PROJECT_DIR$/Spring/Spring REST/Spring REST.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Spring/Spring Web Flow/Spring Web Flow.iml" filepath="$PROJECT_DIR$/Spring/Spring Web Flow/Spring Web Flow.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EPAM_CDP/Spring_Booking/Spring_Booking.iml" filepath="$PROJECT_DIR$/EPAM_CDP/Spring_Booking/Spring_Booking.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Struts/Struts.iml" filepath="$PROJECT_DIR$/Struts/Struts.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TDD/TDD.iml" filepath="$PROJECT_DIR$/TDD/TDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM/Maven/Maven.iml" filepath="$PROJECT_DIR$/EPAM/Maven/Maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/RMI/RMI.iml" filepath="$PROJECT_DIR$/JavaSE/RMI/RMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/Rest/Rest.iml" filepath="$PROJECT_DIR$/JavaEE/Rest/Rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/Salesman/Salesman.iml" filepath="$PROJECT_DIR$/JavaSE/Salesman/Salesman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/Spring/Spring.iml" filepath="$PROJECT_DIR$/JavaEE/Spring/Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring//Spring LDAP.iml" filepath="$PROJECT_DIR$/Spring//Spring LDAP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/Spring/Spring MVC/Spring MVC.iml" filepath="$PROJECT_DIR$/JavaEE/Spring/Spring MVC/Spring MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/Spring/Spring REST/Spring REST.iml" filepath="$PROJECT_DIR$/JavaEE/Spring/Spring REST/Spring REST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/Spring/Spring Web Flow/Spring Web Flow.iml" filepath="$PROJECT_DIR$/JavaEE/Spring/Spring Web Flow/Spring Web Flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM/Spring_Booking/Spring_Booking.iml" filepath="$PROJECT_DIR$/EPAM/Spring_Booking/Spring_Booking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/Struts/Struts.iml" filepath="$PROJECT_DIR$/JavaEE/Struts/Struts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM/TDD/TDD.iml" filepath="$PROJECT_DIR$/EPAM/TDD/TDD.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebService/WebService.iml" filepath="$PROJECT_DIR$/WebService/WebService.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebService/WebService_Standartalone/WebService_Standartalone.iml" filepath="$PROJECT_DIR$/WebService/WebService_Standartalone/WebService_Standartalone.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebService/WebService_Web/WebService_Web.iml" filepath="$PROJECT_DIR$/WebService/WebService_Web/WebService_Web.iml" />
