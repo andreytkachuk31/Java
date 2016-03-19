@@ -13,9 +13,6 @@
         <module>JavaEE</module>
         <module>JavaSE</module>
         <module>EPAM</module>
-
-        <module>WebService</module>
-        <module>LDAP</module>
     </modules>
 
 </project>

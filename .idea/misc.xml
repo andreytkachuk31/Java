@@ -92,7 +92,8 @@
     <file type="javaeeApplication" url="file://D:/iFOBS/apps/ifobs2/ifobs2-sessions/ifobs2-sessions-open/ifobs2-sessions-open-ear" />
     <file type="javaeeApplication" url="file://D:/iFOBS/apps/ifobs2/ifobs2-sessions/ifobs2-sessions-ssi/ifobs2-sessions-ssi-ear" />
     <file type="javaeeApplication" url="file://D:/iFOBS/apps/ifobs2/ifobs2-sessions/ifobs2-sessions-wm/ifobs2-sessions-wm-ear" />
-    <file type="web" url="file://$PROJECT_DIR$/JavaEE/Rest" />
+    <file type="web" url="file://$PROJECT_DIR$/JavaEE/JAX-WS" />
+    <file type="web" url="file://$PROJECT_DIR$/JavaEE/REST" />
     <file type="web" url="file://$PROJECT_DIR$/JavaEE/Spring/Spring MVC" />
     <file type="web" url="file://$PROJECT_DIR$/JavaEE/Spring/Spring REST" />
     <file type="web" url="file://$PROJECT_DIR$/JavaEE/Spring/Spring Web Flow" />
@@ -177,12 +178,17 @@
         <option value="$PROJECT_DIR$/JavaEE/Rest/pom.xml" />
         <option value="$PROJECT_DIR$/JavaSE/Salesman/pom.xml" />
         <option value="$PROJECT_DIR$/JavaSE/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaEE/Spring/Spring LDAP/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaEE/JAX-WS/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/GWT/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaSE/pom.xml" />
+        <option value="$PROJECT_DIR$/LDAP1/pom.xml" />
         <option value="$PROJECT_DIR$/Spring/pom.xml" />
+        <option value="$PROJECT_DIR$/WebService/pom.xml" />
         <option value="D:/iFOBS/apps/ifobs-bl/ifobs-bl-commonbl/pom.xml" />
         <option value="D:/iFOBS/apps/ifobs-bl/ifobs-bl-datadispatcher/pom.xml" />
         <option value="D:/iFOBS/apps/ifobs-bl/ifobs-bl-dispatchers/pom.xml" />

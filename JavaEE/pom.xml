@@ -10,10 +10,11 @@
     <version>1.0</version>
 
     <modules>
-        <module>Struts</module>
         <module>EJB</module>
-        <module>Rest</module>
+        <module>REST</module>
+        <module>JAX-WS</module>
         <module>Spring</module>
+        <module>Struts</module>
     </modules>
 
     
