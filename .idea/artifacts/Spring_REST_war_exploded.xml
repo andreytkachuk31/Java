@@ -1,10 +1,11 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="Spring REST:war exploded">
+  <artifact type="exploded-war" name="spring.rest:war exploded">
     <output-path>$PROJECT_DIR$/JavaEE/Spring/Spring REST/target/spring.rest-1.0</output-path>
     <root id="root">
+      <element id="javaee-facet-resources" facet="spring.rest/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="Spring REST" />
+          <element id="module-output" name="spring.rest" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.springframework:spring-context:4.0.0.RELEASE" />
@@ -23,10 +24,6 @@
           <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.13" />
         </element>
       </element>
-      <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/JavaEE/Spring/Spring REST/target/spring.rest-1.0/META-INF/MANIFEST.MF" />
-      </element>
-      <element id="javaee-facet-resources" facet="Spring REST/web/Web" />
     </root>
   </artifact>
 </component>

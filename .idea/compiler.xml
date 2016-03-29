@@ -22,6 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="EJB" />
         <module name="event-tickets-booking" />
         <module name="ifobs-bczcard" />
         <module name="ifobs-bl-commonbl" />
@@ -194,29 +195,16 @@
         <module name="maven" />
         <module name="Rest" />
         <module name="REST" />
+        <module name="salesman" />
+        <module name="Salesman" />
+        <module name="spring.mvc" />
+        <module name="spring.rest" />
+        <module name="spring.web.flow" />
+        <module name="struts" />
+        <module name="Struts" />
         <module name="Task3" />
         <module name="Task4" />
         <module name="WebApplication" />
-      </profile>
-      <profile default="false" name="Annotation profile for FileStorage" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="FileStorage" />
-      </profile>
-      <profile default="false" name="Annotation profile for Spring_Booking" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="Spring_Booking" />
-      </profile>
-      <profile default="false" name="Annotation profile for Salesman" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
       </profile>
       <profile default="false" name="Annotation profile for LDAP_Web" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -224,21 +212,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
       </profile>
-      <profile default="false" name="Annotation profile for Cache" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="Cache" />
-      </profile>
       <profile default="false" name="Annotation profile for Spring Web Flow" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="Spring Web Flow" />
-      </profile>
-      <profile default="false" name="Annotation profile for TDD" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
@@ -249,35 +223,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="Spring MVC" />
-      </profile>
-      <profile default="false" name="Annotation profile for Maven" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="Maven" />
       </profile>
       <profile default="false" name="Annotation profile for Spring REST" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="Spring REST" />
-      </profile>
-      <profile default="false" name="Annotation profile for EJB" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="EJB" />
-      </profile>
-      <profile default="false" name="Annotation profile for Struts" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="Struts" />
       </profile>
       <profile default="false" name="Annotation profile for tdd" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -286,19 +237,12 @@
         <processorPath useClasspath="true" />
         <module name="tdd" />
       </profile>
-      <profile default="false" name="Annotation profile for salesman" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="salesman" />
-      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Cache" target="1.8" />
       <module name="EJB" target="1.8" />
-      <module name="EPAM" target="1.5" />
       <module name="epam" target="1.5" />
+      <module name="EPAM" target="1.5" />
       <module name="EPAM_CDP" target="1.5" />
       <module name="FileStorage" target="1.8" />
       <module name="GWT" target="1.8" />
@@ -309,8 +253,8 @@
       <module name="LDAP" target="1.5" />
       <module name="LDAP_Web" target="1.7" />
       <module name="Maven" target="1.8" />
-      <module name="Rest" target="1.5" />
       <module name="REST" target="1.5" />
+      <module name="Rest" target="1.5" />
       <module name="Salesman" target="1.7" />
       <module name="salesman" target="1.7" />
       <module name="Spring" target="1.8" />
@@ -320,10 +264,11 @@
       <module name="Spring Web Flow" target="1.8" />
       <module name="Spring_Booking" target="1.8" />
       <module name="Struts" target="1.8" />
-      <module name="TDD" target="1.7" />
       <module name="tdd" target="1.7" />
+      <module name="TDD" target="1.7" />
       <module name="WebService" target="1.5" />
       <module name="WebService_Web" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
+

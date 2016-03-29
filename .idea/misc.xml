@@ -93,7 +93,7 @@
     <file type="javaeeApplication" url="file://D:/iFOBS/apps/ifobs2/ifobs2-sessions/ifobs2-sessions-ssi/ifobs2-sessions-ssi-ear" />
     <file type="javaeeApplication" url="file://D:/iFOBS/apps/ifobs2/ifobs2-sessions/ifobs2-sessions-wm/ifobs2-sessions-wm-ear" />
     <file type="web" url="file://$PROJECT_DIR$/JavaEE/JAX-WS" />
-    <file type="web" url="file://$PROJECT_DIR$/JavaEE/REST" />
+    <file type="web" url="file://$PROJECT_DIR$/JavaEE/Rest" />
     <file type="web" url="file://$PROJECT_DIR$/JavaEE/Spring/Spring MVC" />
     <file type="web" url="file://$PROJECT_DIR$/JavaEE/Spring/Spring REST" />
     <file type="web" url="file://$PROJECT_DIR$/JavaEE/Spring/Spring Web Flow" />
@@ -184,6 +184,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/EPAM/pom.xml" />
         <option value="$PROJECT_DIR$/GWT/pom.xml" />
         <option value="$PROJECT_DIR$/JavaSE/pom.xml" />
         <option value="$PROJECT_DIR$/LDAP1/pom.xml" />
@@ -438,7 +439,7 @@
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="RegexUtilComponent" text="1900-01-01 2007/08/13 1900.01.01 1900 01 01 1900-01.01 1900 13 01 1900 02 31" flags="0" regex="(19|20)\d\d([- /.])(0[1-9]|1[012])\2(0[1-9]|[12][0-9]|3[01])" mode="0" />
@@ -493,3 +494,4 @@
   </component>
   <component name="WebServicesPlugin" addRequiredLibraries="true" />
 </project>
+

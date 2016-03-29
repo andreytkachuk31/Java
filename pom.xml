@@ -12,7 +12,6 @@
     <modules>
         <module>JavaEE</module>
         <module>JavaSE</module>
-        <module>EPAM</module>
     </modules>
 
 </project>
