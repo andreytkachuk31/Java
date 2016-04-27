@@ -13,7 +13,7 @@ public class Server {
         try {
             Hello stub = (Hello) UnicastRemoteObject.exportObject(hello, 0);
 
-            // Bind the remote object's stub in the registry
+            /* Bind the remote object's stub in the registry. Doesn't work right now. Need createRegistry(1099) */
             Registry registry = LocateRegistry.getRegistry();
             registry.bind("Hello", stub);
             System.err.println("Server ready");

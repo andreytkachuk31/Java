@@ -14,6 +14,7 @@
         <module>Spring Web Flow</module>
         <module>Spring REST</module>
         <module>Spring LDAP</module>
+        <module>Spring RMI</module>
     </modules>
 
     <dependencies>
