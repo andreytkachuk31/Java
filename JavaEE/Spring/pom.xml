@@ -15,6 +15,7 @@
         <module>Spring REST</module>
         <module>Spring LDAP</module>
         <module>Spring RMI</module>
+        <module>Spring AOP</module>
     </modules>
 
     <dependencies>
