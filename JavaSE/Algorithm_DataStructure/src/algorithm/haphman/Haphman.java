@@ -6,8 +6,10 @@ import java.util.Map;
 import java.util.PriorityQueue;
 
 /**
+ * Algorithm Haphman - https://habrahabr.ru/post/144200/
+ *
  * @author Andrii_Tkachuk
- * @since 4/14/2015
+ * @since 04/14/2015
  */
 public class Haphman {
 
