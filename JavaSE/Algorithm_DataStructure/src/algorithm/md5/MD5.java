@@ -5,7 +5,7 @@ import java.math.BigInteger;
 /**
  * MD5 - https://ru.wikipedia.org/wiki/MD5, http://dml.compkaluga.ru/forum/index.php?showtopic=24657
  *
- * @author AndrstageI_Tkachuk
+ * @author Andrii_Tkachuk
  * @since 11.05.2016
  */
 public class MD5 {
