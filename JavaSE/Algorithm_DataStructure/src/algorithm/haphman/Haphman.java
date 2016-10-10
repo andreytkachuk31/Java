@@ -23,17 +23,16 @@ public class Haphman {
 
     /**
      * Compress text by Algorithm Haphman
+     *
+     * @return get compressed bits as string
      */
-    public void compress() {
+    public String compress() {
         buildCode(buildTree(), "");
+
+        return getCompressedBits();
     }
 
-    /**
-     * Get compressed bits as string
-     *
-     * @return compressed bits as string
-     */
-    public String getCompressedBits() {
+    private String getCompressedBits() {
         StringBuilder result = new StringBuilder();
         for (char symbol : sourceText.toCharArray()) {
             result.append(haphmanTable.get(symbol));

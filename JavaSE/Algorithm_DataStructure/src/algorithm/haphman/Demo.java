@@ -9,9 +9,9 @@ public class Demo {
     public static void main(String[] args) {
         String sourceText = "beep boop beer!";
         Haphman haphman = new Haphman(sourceText);
-        haphman.compress();
+        String compressedBits = haphman.compress();
 
         System.out.println("Size source bits: " + (sourceText.getBytes().length * 8));
-        System.out.println("Size compressed bits: " + haphman.getCompressedBits().length());
+        System.out.println("Size compressed bits: " + compressedBits.length());
     }
 }
