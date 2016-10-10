@@ -13,8 +13,6 @@ import java.util.PriorityQueue;
  */
 public class Haphman {
 
-    private final static String BINARY_FORMAT = "00000000";
-
     private String sourceText;
     private Map<Character, String> haphmanTable;
 
@@ -31,27 +29,16 @@ public class Haphman {
     }
 
     /**
-     * Get binary representation of string
+     * Get compressed bits as string
      *
-     * @return binary string
+     * @return compressed bits as string
      */
-    public String getBinaryString() {
+    public String getCompressedBits() {
         StringBuilder result = new StringBuilder();
-        for (int i = 0; i < sourceText.length(); i++) {
-            char symbol = sourceText.charAt(i);
-            String code = haphmanTable.get(symbol);
-            result.append((BINARY_FORMAT + code).substring(code.length()) + " ");
+        for (char symbol : sourceText.toCharArray()) {
+            result.append(haphmanTable.get(symbol));
         }
         return result.toString();
-    }
-
-    /**
-     * Get Haphman table
-     *
-     * @return
-     */
-    public Map<Character, String> getHaphmanTable() {
-        return haphmanTable;
     }
 
     private void buildCode(CharacterFrequencyNode current, String code) {
@@ -86,8 +73,7 @@ public class Haphman {
 
     private Map<Character, Integer> calculateFrequencySymbols() {
         Map<Character, Integer> result = new HashMap<Character, Integer>();
-        for (int i = 0; i < sourceText.length(); i++) {
-            char symbol = sourceText.charAt(i);
+        for (char symbol : sourceText.toCharArray()) {
             if (result.containsKey(symbol)) {
                 result.put(symbol, result.get(symbol) + 1);
             } else {
