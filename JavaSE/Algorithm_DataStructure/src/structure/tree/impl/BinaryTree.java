@@ -37,6 +37,7 @@ public class BinaryTree<K extends Comparable<K>, V> implements Tree<K, V> {
                     }
                 } else {
                     current.value = value;
+                    break;
                 }
             }
         } else {
