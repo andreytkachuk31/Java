@@ -17,7 +17,11 @@ public class BinaryTreeRekursia<K extends Comparable<K>, V> implements Tree<K, V
     private Node<K, V> root;
 
     public void put(K key, V value) {
-        put(root, key, value);
+        if (root == null) {
+            root = new Node<K, V>(key, value);
+        } else {
+            put(root, key, value);
+        }
     }
 
     public V get(K key) {
@@ -44,6 +48,10 @@ public class BinaryTreeRekursia<K extends Comparable<K>, V> implements Tree<K, V
 
     public K min() {
         return min(root).key;
+    }
+
+    public int findDeepLevel() {
+        return findDeepLevel(root, 0);
     }
 
     private Node<K, V> put(Node<K, V> current, K key, V value) {
@@ -130,6 +138,16 @@ public class BinaryTreeRekursia<K extends Comparable<K>, V> implements Tree<K, V
     private Node<K, V> max(Node current) {
         if (current.right == null) return current;
         return min(current.right);
+    }
+
+    private int findDeepLevel(Node current, int deepLevel) {
+        if (current == null) {
+            return deepLevel;
+        }
+        int leftLevel = findDeepLevel(current.left, deepLevel + 1);
+        int rightLevel = findDeepLevel(current.right, deepLevel + 1);
+
+        return Math.max(leftLevel, rightLevel);
     }
 
     static class Node<K extends Comparable<K>, V> {

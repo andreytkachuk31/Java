@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.number;
 
 import java.math.BigInteger;
 import java.util.HashMap;

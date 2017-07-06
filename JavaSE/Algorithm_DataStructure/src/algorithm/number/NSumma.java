@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.number;
 
 /**
  * Найти пропущенные числа в ряде 1...N

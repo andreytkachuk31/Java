@@ -14,7 +14,7 @@ public interface Tree<K extends Comparable<K>, V> {
 
     void traverseTree(TraverseType traverseType);
 
-    public K max();
+    K max();
 
-    public K min();
+    K min();
 }

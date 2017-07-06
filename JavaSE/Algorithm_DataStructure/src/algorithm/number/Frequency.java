@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.number;
 
 /**
  * Нахождение частоты встречания числа в массиве

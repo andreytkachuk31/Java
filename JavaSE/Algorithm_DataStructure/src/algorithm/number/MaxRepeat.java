@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.number;
 
 /**
  * Определяет максимальное кол-во подряд идущих элементов

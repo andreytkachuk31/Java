@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.number;
 
 /**
  * НОД (наибольший общий делитель)
