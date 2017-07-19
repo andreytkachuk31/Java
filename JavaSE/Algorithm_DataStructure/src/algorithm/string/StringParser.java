@@ -4,6 +4,12 @@ import java.text.ParseException;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Парсит строку в целое цисло
+ *
+ * @author : andrey.tkachuk31
+ * @since : 14.07.17
+ */
 public class StringParser {
 
     private static final int ZERO_CODE_POINT = (int) '0';
@@ -24,7 +30,8 @@ public class StringParser {
     }
 
     /**
-     * Method that parse input string to integer
+     * Method that parse input string to integer <br/>
+     * Example: "123" -> 123, "12a" -> throw ParseException
      *
      * @param input, input string
      * @return parsed integer
