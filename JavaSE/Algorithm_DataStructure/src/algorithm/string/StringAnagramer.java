@@ -11,7 +11,7 @@ import java.util.Arrays;
 public class StringAnagramer {
 
     /**
-     * Method that check if two strings are anagrams of each other <br/>
+     * Method check if two strings are anagrams of each other <br/>
      * Example: ("cat", "act") -> true, ("dog", "door") -> false
      *
      * @param word input word

@@ -9,7 +9,7 @@ package algorithm.string;
 public class StringReverser {
 
     /**
-     * Method that reverse input string
+     * Method reverse input string <br/>
      * Example: "hello" -> "olleh"
      *
      * @param input input string
@@ -30,7 +30,15 @@ public class StringReverser {
      * @return reverse string
      */
     public String reverseRecursive(String input) {
-        return null;
+        return reverseRecursive(input.toCharArray(), 0, input.length() - 1);
+    }
+
+    public String reverseRecursive(char[] chars, int start, int end) {
+        if (start >= end) {
+            return new String(chars);
+        }
+        swap(chars, start, end);
+        return reverseRecursive(chars, start + 1, end - 1);
     }
 
     private void swap(char[] array, int i, int j) {

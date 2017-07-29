@@ -30,7 +30,7 @@ public class StringParser {
     }
 
     /**
-     * Method that parse input string to integer <br/>
+     * Method parse input string to integer <br/>
      * Example: "123" -> 123, "12a" -> throw ParseException
      *
      * @param input, input string

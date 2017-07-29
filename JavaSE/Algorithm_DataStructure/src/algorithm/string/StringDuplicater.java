@@ -12,7 +12,7 @@ import java.util.Set;
 public class StringDuplicater {
 
     /**
-     * Method that check duplicate characters from String <br/>
+     * Method check duplicate characters from String <br/>
      * Example: "hello" -> true, "helo" -> false
      *
      * @param input, input string
