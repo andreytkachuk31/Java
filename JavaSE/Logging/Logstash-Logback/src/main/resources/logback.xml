@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+    <shutdownHook class="ch.qos.logback.core.hook.DelayingShutdownHook"/>
+
+    <!-- CONSOLE appender -->
+    <appender name="console-appender" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- LOGSTASH appender -->
+    <appender name="logstash-appender" class="net.logstash.logback.appender.LogstashTcpSocketAppender">
+        <destination>127.0.0.1:4560</destination>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- LOGSTASH logger -->
+    <logger name="logstash" additivity="false">
+        <level value="INFO"/>
+        <appender-ref ref="logstash-appender"/>
+    </logger>
+
+    <!-- Root Logger -->
+    <root>
+        <level value="DEBUG"/>
+        <appender-ref ref="console-appender"/>
+    </root>
+
+</configuration>

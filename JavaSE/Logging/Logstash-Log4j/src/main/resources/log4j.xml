@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/">
+
+    <!-- CONSOLE appender -->
+    <appender name="console-appender" class="org.apache.log4j.ConsoleAppender">
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n"/>
+        </layout>
+    </appender>
+
+    <!-- LOGSTASH appender -->
+    <appender name="logstash-appender" class="org.apache.log4j.net.SocketAppender">
+        <param name="RemoteHost" value="127.0.0.1"/>
+        <param name="Port" value="4560"/>
+        <param name="ReconnectionDelay" value="60000"/>
+    </appender>
+
+    <!-- LOGSTASH logger -->
+    <logger name="logstash" additivity="false">
+        <level value="INFO"/>
+        <appender-ref ref="logstash-appender"/>
+    </logger>
+
+    <!-- Root Logger -->
+    <root>
+        <level value="DEBUG"/>
+        <appender-ref ref="console-appender"/>
+    </root>
+
+</log4j:configuration>

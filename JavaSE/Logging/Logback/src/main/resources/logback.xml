@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+    <!-- Remove status-information from console, if we use layout-tag instead of encoder-tag -->
+    <!-- <statusListener class="ch.qos.logback.core.status.NopStatusListener" /> -->
+
+    <!-- CONSOLE appender -->
+    <appender name="console" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- FILE appender -->
+    <appender name="file" class="ch.qos.logback.core.FileAppender">
+        <file>example-logback.log</file>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{35} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Custom loggers (additivity="false" will not show up in the rootLogger's appender) -->
+    <logger name="ua.com.development" additivity="false">
+        <level value="INFO"/>
+        <appender-ref ref="console"/>
+    </logger>
+
+    <!-- Root Logger -->
+    <root>
+        <level value="DEBUG"/>
+        <appender-ref ref="console"/>
+        <appender-ref ref="file"/>
+    </root>
+
+</configuration>

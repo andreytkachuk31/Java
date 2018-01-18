@@ -16,6 +16,11 @@
       <module fileurl="file://$PROJECT_DIR$/JavaEE/JavaEE.iml" filepath="$PROJECT_DIR$/JavaEE/JavaEE.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/JavaSE.iml" filepath="$PROJECT_DIR$/JavaSE/JavaSE.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/LDAP/LDAP.iml" filepath="$PROJECT_DIR$/JavaSE/LDAP/LDAP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/Logging/Log4j/Log4j.iml" filepath="$PROJECT_DIR$/JavaSE/Logging/Log4j/Log4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/Logging/Logback/Logback.iml" filepath="$PROJECT_DIR$/JavaSE/Logging/Logback/Logback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/Logging/Logging.iml" filepath="$PROJECT_DIR$/JavaSE/Logging/Logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/Logging/Logstash-Log4j/Logstash-Log4j.iml" filepath="$PROJECT_DIR$/JavaSE/Logging/Logstash-Log4j/Logstash-Log4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSE/Logging/Logstash-Logback/Logstash-Logback.iml" filepath="$PROJECT_DIR$/JavaSE/Logging/Logstash-Logback/Logstash-Logback.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/Native/Native.iml" filepath="$PROJECT_DIR$/JavaSE/Native/Native.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/RMI/RMI.iml" filepath="$PROJECT_DIR$/JavaSE/RMI/RMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE/Rest/Rest.iml" filepath="$PROJECT_DIR$/JavaEE/Rest/Rest.iml" />
