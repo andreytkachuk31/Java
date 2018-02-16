@@ -5,14 +5,14 @@
       <module fileurl="file://$PROJECT_DIR$/JavaSE/Algorithm_DataStructure/Algorithm_DataStructure.iml" filepath="$PROJECT_DIR$/JavaSE/Algorithm_DataStructure/Algorithm_DataStructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE/DWR/DWR.iml" filepath="$PROJECT_DIR$/JavaEE/DWR/DWR.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE/EJB/EJB.iml" filepath="$PROJECT_DIR$/JavaEE/EJB/EJB.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EPAM/EPAM_CDP.iml" filepath="$PROJECT_DIR$/EPAM/EPAM_CDP.iml" />
+      <module fileurl="file://C:\Users\andre\IdeaProjects\Java\EPAM\EPAM_CDP.iml" filepath="C:\Users\andre\IdeaProjects\Java\EPAM\EPAM_CDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE/GWT/GWT.iml" filepath="$PROJECT_DIR$/JavaEE/GWT/GWT.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/IO/IO.iml" filepath="$PROJECT_DIR$/JavaSE/IO/IO.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE/JAX-WS/JAX-WS.iml" filepath="$PROJECT_DIR$/JavaEE/JAX-WS/JAX-WS.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/JAX-WS1/JAX-WS1.iml" filepath="$PROJECT_DIR$/JavaSE/JAX-WS1/JAX-WS1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaSE/JAX-WS./JAX-WS1.iml" filepath="$PROJECT_DIR$/JavaSE/JAX-WS./JAX-WS1.iml" />
+      <module fileurl="file://C:\Users\andre\IdeaProjects\Java\JavaSE\JAX-WS.\JAX-WS1.iml" filepath="C:\Users\andre\IdeaProjects\Java\JavaSE\JAX-WS.\JAX-WS1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EPAM/Java8/Java8.iml" filepath="$PROJECT_DIR$/EPAM/Java8/Java8.iml" />
+      <module fileurl="file://C:\Users\andre\IdeaProjects\Java\EPAM\Java8\Java8.iml" filepath="C:\Users\andre\IdeaProjects\Java\EPAM\Java8\Java8.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE/JavaEE.iml" filepath="$PROJECT_DIR$/JavaEE/JavaEE.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/JavaSE.iml" filepath="$PROJECT_DIR$/JavaSE/JavaSE.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/LDAP/LDAP.iml" filepath="$PROJECT_DIR$/JavaSE/LDAP/LDAP.iml" />
@@ -27,10 +27,11 @@
       <module fileurl="file://$PROJECT_DIR$/JavaSE/Salesman/Salesman.iml" filepath="$PROJECT_DIR$/JavaSE/Salesman/Salesman.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE/Serialization/Serialization.iml" filepath="$PROJECT_DIR$/JavaSE/Serialization/Serialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE/Spring/Spring.iml" filepath="$PROJECT_DIR$/JavaEE/Spring/Spring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Spring//Spring LDAP.iml" filepath="$PROJECT_DIR$/Spring//Spring LDAP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/Spring/Spring Boot/Spring Boot.iml" filepath="$PROJECT_DIR$/JavaEE/Spring/Spring Boot/Spring Boot.iml" />
+      <module fileurl="file://C:\Users\andre\IdeaProjects\Java\Spring\\Spring LDAP.iml" filepath="C:\Users\andre\IdeaProjects\Java\Spring\\Spring LDAP.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE/Spring/Spring RMI/Spring RMI.iml" filepath="$PROJECT_DIR$/JavaEE/Spring/Spring RMI/Spring RMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE/Struts/Struts.iml" filepath="$PROJECT_DIR$/JavaEE/Struts/Struts.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../CDP/Module3/Hw1/event-tickets-booking/event-tickets-booking.iml" filepath="$PROJECT_DIR$/../CDP/Module3/Hw1/event-tickets-booking/event-tickets-booking.iml" />
+      <module fileurl="file://C:\Users\andre\IdeaProjects\CDP\Module3\Hw1\event-tickets-booking\event-tickets-booking.iml" filepath="C:\Users\andre\IdeaProjects\CDP\Module3\Hw1\event-tickets-booking\event-tickets-booking.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE/Spring/Spring AOP/spring.aop.iml" filepath="$PROJECT_DIR$/JavaEE/Spring/Spring AOP/spring.aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE/Spring/Spring LDAP/spring.ldap.iml" filepath="$PROJECT_DIR$/JavaEE/Spring/Spring LDAP/spring.ldap.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE/Spring/Spring MVC/spring.mvc.iml" filepath="$PROJECT_DIR$/JavaEE/Spring/Spring MVC/spring.mvc.iml" />

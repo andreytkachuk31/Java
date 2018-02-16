@@ -16,6 +16,7 @@
         <module>Spring LDAP</module>
         <module>Spring RMI</module>
         <module>Spring AOP</module>
+        <module>Spring Boot</module>
     </modules>
 
     <dependencies>
