@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Spring MVC Java:war">
+    <output-path>$PROJECT_DIR$/JavaEE/Spring/Spring MVC Java/target</output-path>
+    <root id="archive" name="spring.mvc.java-1.0.war">
+      <element id="artifact" artifact-name="Spring MVC Java:war exploded" />
+    </root>
+  </artifact>
+</component>

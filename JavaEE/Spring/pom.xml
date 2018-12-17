@@ -11,6 +11,7 @@
 
     <modules>
         <module>Spring MVC</module>
+        <module>Spring MVC Java</module>
         <module>Spring Web Flow</module>
         <module>Spring REST</module>
         <module>Spring LDAP</module>
