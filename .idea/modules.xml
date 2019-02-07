@@ -34,12 +34,13 @@
       <module fileurl="file://$PROJECT_DIR$/JavaSE/Thread/Thread.iml" filepath="$PROJECT_DIR$/JavaSE/Thread/Thread.iml" />
       <module fileurl="file://C:\Users\andre\IdeaProjects\CDP\Module3\Hw1\event-tickets-booking\event-tickets-booking.iml" filepath="C:\Users\andre\IdeaProjects\CDP\Module3\Hw1\event-tickets-booking\event-tickets-booking.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE/Spring/Spring AOP/spring.aop.iml" filepath="$PROJECT_DIR$/JavaEE/Spring/Spring AOP/spring.aop.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaEE/Spring/Spring AOP/spring.aop.iml" filepath="$PROJECT_DIR$/JavaEE/Spring/Spring AOP/spring.aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE/Spring/Spring Boot/spring.boot.iml" filepath="$PROJECT_DIR$/JavaEE/Spring/Spring Boot/spring.boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/Spring/Spring Cache/spring.cache.iml" filepath="$PROJECT_DIR$/JavaEE/Spring/Spring Cache/spring.cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE/Spring/Spring LDAP/spring.ldap.iml" filepath="$PROJECT_DIR$/JavaEE/Spring/Spring LDAP/spring.ldap.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE/Spring/Spring MVC/spring.mvc.iml" filepath="$PROJECT_DIR$/JavaEE/Spring/Spring MVC/spring.mvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE/Spring/Spring MVC Java/spring.mvc.java.iml" filepath="$PROJECT_DIR$/JavaEE/Spring/Spring MVC Java/spring.mvc.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE/Spring/Spring REST/spring.rest.iml" filepath="$PROJECT_DIR$/JavaEE/Spring/Spring REST/spring.rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEE/Spring/Spring Task/spring.task.iml" filepath="$PROJECT_DIR$/JavaEE/Spring/Spring Task/spring.task.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEE/Spring/Spring Web Flow/spring.web.flow.iml" filepath="$PROJECT_DIR$/JavaEE/Spring/Spring Web Flow/spring.web.flow.iml" />
     </modules>
   </component>

@@ -1,10 +1,10 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="Spring Cache:war exploded">
-    <output-path>$PROJECT_DIR$/JavaEE/Spring/Spring Cache/target/spring.cache-1.0</output-path>
+  <artifact type="exploded-war" name="spring.task:war exploded">
+    <output-path>$PROJECT_DIR$/JavaEE/Spring/Spring Task/target/spring.task-1.0</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="Spring Cache" />
+          <element id="module-output" name="spring.task" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.springframework:spring-context:4.0.0.RELEASE" />
@@ -17,14 +17,12 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-web:4.0.0.RELEASE" />
           <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.0.0.RELEASE" />
-          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.10" />
-          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.13" />
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/JavaEE/Spring/Spring Cache/target/spring.cache-1.0/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/JavaEE/Spring/Spring Task/target/spring.task-1.0/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="Spring Cache/web/Web" />
+      <element id="javaee-facet-resources" facet="spring.task/web/Web" />
     </root>
   </artifact>
 </component>

@@ -18,6 +18,7 @@
         <module>Spring AOP</module>
         <module>Spring Boot</module>
         <module>Spring Cache</module>
+        <module>Spring Task</module>
     </modules>
 
     <dependencies>
