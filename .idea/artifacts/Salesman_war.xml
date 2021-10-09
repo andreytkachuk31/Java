@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="Salesman:war">
-    <output-path>$PROJECT_DIR$/JavaSE/Salesman/target</output-path>
-    <root id="archive" name="salesman-1.0.war">
-      <element id="artifact" artifact-name="Salesman:war exploded" />
-    </root>
-  </artifact>
-</component>

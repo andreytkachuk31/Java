@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-ear" name="EJB:ear exploded">
-    <output-path>$PROJECT_DIR$/JavaEE/EJB/target/ejb-1.0</output-path>
-    <root id="root">
-      <element id="javaee-facet-resources" facet="EJB/javaeeApplication/JavaEE" />
-      <element id="library" level="project" name="Maven: javax.ejb:ejb-api:3.0" />
-    </root>
-  </artifact>
-</component>

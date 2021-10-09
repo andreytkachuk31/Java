@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="JAX-WS:war">
-    <output-path>$PROJECT_DIR$/JavaEE/JAX-WS/target</output-path>
-    <root id="archive" name="jax-ws-1.0.war">
-      <element id="artifact" artifact-name="JAX-WS:war exploded" />
-    </root>
-  </artifact>
-</component>

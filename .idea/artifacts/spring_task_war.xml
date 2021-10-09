@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="spring.task:war">
-    <output-path>$PROJECT_DIR$/JavaEE/Spring/Spring Task/target</output-path>
-    <root id="archive" name="spring.task-1.0.war">
-      <element id="artifact" artifact-name="spring.task:war exploded" />
-    </root>
-  </artifact>
-</component>

@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="spring.web.flow:war">
-    <output-path>$PROJECT_DIR$/JavaEE/Spring/Spring Web Flow/target</output-path>
-    <root id="archive" name="spring.web.flow-1.0.war">
-      <element id="artifact" artifact-name="spring.web.flow:war exploded" />
-    </root>
-  </artifact>
-</component>
