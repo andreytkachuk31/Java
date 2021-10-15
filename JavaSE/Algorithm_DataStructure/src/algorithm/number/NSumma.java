@@ -2,10 +2,9 @@ package algorithm.number;
 
 /**
  * Найти пропущенные числа в ряде 1...N
- * <p/>
- * Date: 29.10.13
  *
  * @author: andrey.tkachuk31
+ * @since: 29.10.13
  */
 public class NSumma {
 

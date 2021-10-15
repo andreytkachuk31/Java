@@ -3,8 +3,8 @@ package algorithm.number;
 /**
  * Определяет максимальное кол-во подряд идущих элементов
  *
- * @since: 12.04.14
  * @author: Андрей
+ * @since: 12.04.14
  */
 public class MaxRepeat {
 

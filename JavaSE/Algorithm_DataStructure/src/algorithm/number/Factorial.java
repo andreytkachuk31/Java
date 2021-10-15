@@ -5,9 +5,12 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Date: 11.05.13
+ * Computes factorial of number
+ * Formula - n! = n * (n - 1)!
+ * Example - 5! = 5 * 4 * 3 * 2 * 1 = 120
  *
  * @author andrey.tkachuk
+ * @since 11.05.13
  */
 public class Factorial {
 
@@ -26,4 +29,10 @@ public class Factorial {
         return res;
     }
 
+    public static int factorialRecursion(int n) {
+        if (n == 0) {
+            return 1;
+        }
+        return n * factorialRecursion(n - 1);
+    }
 }

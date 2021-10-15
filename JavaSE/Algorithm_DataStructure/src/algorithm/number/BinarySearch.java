@@ -1,9 +1,9 @@
 package algorithm.number;
 
 /**
- * Бинарный поиск
+ * Binary search
  *
- * @author: Андрей
+ * @author: andrey.tkachuk
  * @since: 26.07.17
  */
 public class BinarySearch {
@@ -15,7 +15,7 @@ public class BinarySearch {
      * @param value element
      * @return finding index
      */
-    public int binarySearch(int[] array, int value) {
+    public static int binarySearch(int[] array, int value) {
         int low = 0;
         int hi = array.length - 1;
 
@@ -39,11 +39,11 @@ public class BinarySearch {
      * @param value element
      * @return finding index
      */
-    public int binarySearchRecursion(int[] array, int value) {
+    public static int binarySearchRecursion(int[] array, int value) {
         return binarySearchRecursion(array, value, 0, array.length - 1);
     }
 
-    private int binarySearchRecursion(int[] array, int value, int low, int hi) {
+    private static int binarySearchRecursion(int[] array, int value, int low, int hi) {
         if (low <= hi) {
             int mid = (low + hi) / 2;
             if (array[mid] == value) {

@@ -8,15 +8,15 @@ package algorithm.number;
  */
 public class Frequency {
 
-    public static int[] frequency(int input[]) {
-        int frequency[] = new int[max(input) + 1];
+    public static int[] frequency(int[] input) {
+        int[] frequency = new int[max(input) + 1];
         for (int i = 0; i < input.length; i++) {
             frequency[input[i]]++;
         }
         return frequency;
     }
 
-    private static int max(int input[]) {
+    private static int max(int[] input) {
         int max = input[0];
         for (int i = 1; i < input.length; i++) {
             if (input[i] > max) {
