@@ -19,7 +19,7 @@ public class StringExtraCharacter {
      * @param t string with  extra character
      * @return extra character
      */
-    public static char findOneExtraCharacter(String s, String t) {
+    public char findOneExtraCharacter(String s, String t) {
         Map<Character, Integer> frequencyS = frequency(s);
         Map<Character, Integer> frequencyT = frequency(t);
 
@@ -38,7 +38,7 @@ public class StringExtraCharacter {
         return Character.MIN_VALUE;
     }
 
-    private static Map<Character, Integer> frequency(String s) {
+    private Map<Character, Integer> frequency(String s) {
         Map<Character, Integer> frequency = new HashMap<>();
 
         for (char letter : s.toCharArray()) {
