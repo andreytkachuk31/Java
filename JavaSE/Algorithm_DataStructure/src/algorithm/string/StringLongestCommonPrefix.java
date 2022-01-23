@@ -27,7 +27,7 @@ public class StringLongestCommonPrefix {
             }
             prefix += symbol;
         }
-        return prefix.equals("") ? "-1" : prefix;
+        return prefix;
     }
 
     private int findMinLength(String[] strs) {

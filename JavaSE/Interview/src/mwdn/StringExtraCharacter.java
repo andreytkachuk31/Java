@@ -1,4 +1,4 @@
-package algorithm.string;
+package mwdn;
 
 import java.util.HashMap;
 import java.util.Map;
