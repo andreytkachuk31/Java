@@ -1,13 +1,9 @@
 package algorithm.linkedlist;
 
-import algorithm.Test;
-
-import java.util.Stack;
-
 public class LinkedListReverse {
 
     public static Node reverseList(Node node) {
-        if (node.next == null) {
+        if (node == null || node.next == null) {
             return node;
         }
         Node head = reverseList(node.next);

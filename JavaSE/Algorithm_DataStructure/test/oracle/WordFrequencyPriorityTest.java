@@ -7,9 +7,9 @@ import java.util.List;
 
 import static org.junit.Assert.assertEquals;
 
-public class WordFrequencyTest {
+public class WordFrequencyPriorityTest {
 
-    private WordFrequency subject = new WordFrequency();
+    private WordFrequencyPriority subject = new WordFrequencyPriority();
 
     @Test
     public void findFrequencyWords () {
